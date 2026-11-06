@@ -5,6 +5,14 @@
   "version": "1.8.0",
   "publisher": "vyshnav",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vyshnav2255/vs-code-themes.git"
+  },
+  "homepage": "https://github.com/Vyshnav2255/vs-code-themes#readme",
+  "bugs": {
+    "url": "https://github.com/Vyshnav2255/vs-code-themes/issues"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },

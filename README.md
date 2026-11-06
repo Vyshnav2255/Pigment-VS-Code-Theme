@@ -66,12 +66,12 @@ Or in VS Code: **Extensions → ⋯ → Install from VSIX…**
 ### Build from source
 
 ```bash
-git clone https://github.com/<you>/vs-code-themes.git
+git clone https://github.com/Vyshnav2255/vs-code-themes.git
 cd vs-code-themes
 npm install
 pip install picosvg fonttools      # used to turn SVG icons into icon fonts
 npm run build                      # regenerates themes/, fileicons*/ and producticons*/
-npx @vscode/vsce package --allow-missing-repository
+npx @vscode/vsce package
 code --install-extension pitch-black-theme-*.vsix
 ```
 
