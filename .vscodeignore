@@ -1,0 +1,8 @@
+src/**
+node_modules/**
+producticons*/svg/**
+producticons*/glyphs.json
+*.contributes.json
+*.vsix
+images/**
+.gitignore

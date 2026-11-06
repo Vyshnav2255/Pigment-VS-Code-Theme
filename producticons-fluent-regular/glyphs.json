@@ -1,0 +1,486 @@
+{
+  "mic": {
+    "icon": "mic_24_regular",
+    "codepoint": 57344
+  },
+  "case-sensitive": {
+    "icon": "text_font_24_regular",
+    "codepoint": 57345
+  },
+  "whole-word": {
+    "icon": "text_t_24_regular",
+    "codepoint": 57346
+  },
+  "circle-filled": {
+    "icon": "circle_24_regular",
+    "codepoint": 57347
+  },
+  "bracket": {
+    "icon": "braces_24_regular",
+    "codepoint": 57348
+  },
+  "files": {
+    "icon": "copy_24_regular",
+    "codepoint": 57349
+  },
+  "search": {
+    "icon": "search_24_regular",
+    "codepoint": 57350
+  },
+  "source-control": {
+    "icon": "branch_24_regular",
+    "codepoint": 57351
+  },
+  "debug-alt": {
+    "icon": "bug_24_regular",
+    "codepoint": 57352
+  },
+  "debug-alt-small": {
+    "icon": "bug_24_regular",
+    "codepoint": 57352
+  },
+  "debug": {
+    "icon": "bug_24_regular",
+    "codepoint": 57352
+  },
+  "extensions": {
+    "icon": "puzzle_piece_24_regular",
+    "codepoint": 57353
+  },
+  "remote-explorer": {
+    "icon": "desktop_24_regular",
+    "codepoint": 57354
+  },
+  "account": {
+    "icon": "person_circle_24_regular",
+    "codepoint": 57355
+  },
+  "settings-gear": {
+    "icon": "settings_24_regular",
+    "codepoint": 57356
+  },
+  "gear": {
+    "icon": "settings_24_regular",
+    "codepoint": 57356
+  },
+  "settings": {
+    "icon": "options_24_regular",
+    "codepoint": 57357
+  },
+  "close": {
+    "icon": "dismiss_24_regular",
+    "codepoint": 57358
+  },
+  "add": {
+    "icon": "add_24_regular",
+    "codepoint": 57359
+  },
+  "plus": {
+    "icon": "add_24_regular",
+    "codepoint": 57359
+  },
+  "remove": {
+    "icon": "subtract_24_regular",
+    "codepoint": 57360
+  },
+  "trash": {
+    "icon": "delete_24_regular",
+    "codepoint": 57361
+  },
+  "refresh": {
+    "icon": "arrow_clockwise_24_regular",
+    "codepoint": 57362
+  },
+  "copy": {
+    "icon": "copy_24_regular",
+    "codepoint": 57349
+  },
+  "filter": {
+    "icon": "filter_24_regular",
+    "codepoint": 57363
+  },
+  "filter-filled": {
+    "icon": "filter_24_regular",
+    "codepoint": 57363
+  },
+  "ellipsis": {
+    "icon": "more_horizontal_24_regular",
+    "codepoint": 57364
+  },
+  "kebab-vertical": {
+    "icon": "more_vertical_24_regular",
+    "codepoint": 57365
+  },
+  "new-file": {
+    "icon": "document_add_24_regular",
+    "codepoint": 57366
+  },
+  "new-folder": {
+    "icon": "folder_add_24_regular",
+    "codepoint": 57367
+  },
+  "collapse-all": {
+    "icon": "arrow_collapse_all_24_regular",
+    "codepoint": 57368
+  },
+  "expand-all": {
+    "icon": "arrow_expand_24_regular",
+    "codepoint": 57369
+  },
+  "chevron-right": {
+    "icon": "chevron_right_24_regular",
+    "codepoint": 57370
+  },
+  "chevron-down": {
+    "icon": "chevron_down_24_regular",
+    "codepoint": 57371
+  },
+  "chevron-left": {
+    "icon": "chevron_left_24_regular",
+    "codepoint": 57372
+  },
+  "chevron-up": {
+    "icon": "chevron_up_24_regular",
+    "codepoint": 57373
+  },
+  "arrow-right": {
+    "icon": "arrow_right_24_regular",
+    "codepoint": 57374
+  },
+  "arrow-left": {
+    "icon": "arrow_left_24_regular",
+    "codepoint": 57375
+  },
+  "arrow-up": {
+    "icon": "arrow_up_24_regular",
+    "codepoint": 57376
+  },
+  "arrow-down": {
+    "icon": "arrow_down_24_regular",
+    "codepoint": 57377
+  },
+  "split-horizontal": {
+    "icon": "split_vertical_24_regular",
+    "codepoint": 57378
+  },
+  "split-vertical": {
+    "icon": "split_horizontal_24_regular",
+    "codepoint": 57379
+  },
+  "layout-sidebar-left": {
+    "icon": "panel_left_24_regular",
+    "codepoint": 57380
+  },
+  "layout-sidebar-left-off": {
+    "icon": "panel_left_24_regular",
+    "codepoint": 57380
+  },
+  "layout-sidebar-right": {
+    "icon": "panel_right_24_regular",
+    "codepoint": 57381
+  },
+  "layout-sidebar-right-off": {
+    "icon": "panel_right_24_regular",
+    "codepoint": 57381
+  },
+  "layout-panel": {
+    "icon": "panel_bottom_20_regular",
+    "codepoint": 57382
+  },
+  "layout-panel-off": {
+    "icon": "panel_bottom_20_regular",
+    "codepoint": 57382
+  },
+  "layout": {
+    "icon": "dashboard_20_regular",
+    "codepoint": 57383
+  },
+  "screen-full": {
+    "icon": "maximize_24_regular",
+    "codepoint": 57384
+  },
+  "screen-normal": {
+    "icon": "full_screen_minimize_24_regular",
+    "codepoint": 57385
+  },
+  "git-compare": {
+    "icon": "branch_compare_24_regular",
+    "codepoint": 57386
+  },
+  "git-merge": {
+    "icon": "merge_24_regular",
+    "codepoint": 57387
+  },
+  "repo-forked": {
+    "icon": "branch_fork_24_regular",
+    "codepoint": 57388
+  },
+  "git-branch": {
+    "icon": "branch_24_regular",
+    "codepoint": 57351
+  },
+  "check": {
+    "icon": "check_24_regular",
+    "codepoint": 57389
+  },
+  "error": {
+    "icon": "dismiss_circle_24_regular",
+    "codepoint": 57390
+  },
+  "warning": {
+    "icon": "warning_24_regular",
+    "codepoint": 57391
+  },
+  "info": {
+    "icon": "info_24_regular",
+    "codepoint": 57392
+  },
+  "pass": {
+    "icon": "checkmark_circle_24_regular",
+    "codepoint": 57393
+  },
+  "pass-filled": {
+    "icon": "checkmark_circle_24_regular",
+    "codepoint": 57393
+  },
+  "bell": {
+    "icon": "alert_24_regular",
+    "codepoint": 57394
+  },
+  "bell-dot": {
+    "icon": "alert_urgent_24_regular",
+    "codepoint": 57395
+  },
+  "play": {
+    "icon": "play_24_regular",
+    "codepoint": 57396
+  },
+  "debug-start": {
+    "icon": "play_24_regular",
+    "codepoint": 57396
+  },
+  "run-all": {
+    "icon": "play_24_regular",
+    "codepoint": 57396
+  },
+  "debug-pause": {
+    "icon": "pause_24_regular",
+    "codepoint": 57397
+  },
+  "debug-stop": {
+    "icon": "stop_24_regular",
+    "codepoint": 57398
+  },
+  "debug-restart": {
+    "icon": "arrow_clockwise_24_regular",
+    "codepoint": 57362
+  },
+  "debug-continue": {
+    "icon": "next_24_regular",
+    "codepoint": 57399
+  },
+  "comment": {
+    "icon": "chat_24_regular",
+    "codepoint": 57400
+  },
+  "comment-discussion": {
+    "icon": "chat_multiple_24_regular",
+    "codepoint": 57401
+  },
+  "history": {
+    "icon": "history_24_regular",
+    "codepoint": 57402
+  },
+  "eye": {
+    "icon": "eye_24_regular",
+    "codepoint": 57403
+  },
+  "eye-closed": {
+    "icon": "eye_off_24_regular",
+    "codepoint": 57404
+  },
+  "pin": {
+    "icon": "pin_24_regular",
+    "codepoint": 57405
+  },
+  "pinned": {
+    "icon": "pin_24_regular",
+    "codepoint": 57405
+  },
+  "edit": {
+    "icon": "edit_24_regular",
+    "codepoint": 57406
+  },
+  "save": {
+    "icon": "save_24_regular",
+    "codepoint": 57407
+  },
+  "save-all": {
+    "icon": "save_multiple_24_regular",
+    "codepoint": 57408
+  },
+  "home": {
+    "icon": "home_24_regular",
+    "codepoint": 57409
+  },
+  "globe": {
+    "icon": "globe_24_regular",
+    "codepoint": 57410
+  },
+  "link": {
+    "icon": "link_24_regular",
+    "codepoint": 57411
+  },
+  "link-external": {
+    "icon": "open_24_regular",
+    "codepoint": 57412
+  },
+  "lock": {
+    "icon": "lock_closed_24_regular",
+    "codepoint": 57413
+  },
+  "unlock": {
+    "icon": "lock_open_24_regular",
+    "codepoint": 57414
+  },
+  "menu": {
+    "icon": "list_24_regular",
+    "codepoint": 57415
+  },
+  "replace": {
+    "icon": "arrow_swap_24_regular",
+    "codepoint": 57416
+  },
+  "replace-all": {
+    "icon": "arrow_swap_24_regular",
+    "codepoint": 57416
+  },
+  "sparkle": {
+    "icon": "sparkle_24_regular",
+    "codepoint": 57417
+  },
+  "chat-sparkle": {
+    "icon": "bot_24_regular",
+    "codepoint": 57418
+  },
+  "go-to-file": {
+    "icon": "document_search_24_regular",
+    "codepoint": 57419
+  },
+  "cloud": {
+    "icon": "cloud_24_regular",
+    "codepoint": 57420
+  },
+  "cloud-download": {
+    "icon": "cloud_arrow_down_24_regular",
+    "codepoint": 57421
+  },
+  "cloud-upload": {
+    "icon": "cloud_arrow_up_24_regular",
+    "codepoint": 57422
+  },
+  "book": {
+    "icon": "book_24_regular",
+    "codepoint": 57423
+  },
+  "folder": {
+    "icon": "folder_24_regular",
+    "codepoint": 57424
+  },
+  "folder-opened": {
+    "icon": "folder_open_24_regular",
+    "codepoint": 57425
+  },
+  "file": {
+    "icon": "document_24_regular",
+    "codepoint": 57426
+  },
+  "star": {
+    "icon": "star_24_regular",
+    "codepoint": 57427
+  },
+  "star-empty": {
+    "icon": "star_24_regular",
+    "codepoint": 57427
+  },
+  "tag": {
+    "icon": "tag_24_regular",
+    "codepoint": 57428
+  },
+  "key": {
+    "icon": "key_24_regular",
+    "codepoint": 57429
+  },
+  "person": {
+    "icon": "person_24_regular",
+    "codepoint": 57430
+  },
+  "beaker": {
+    "icon": "beaker_24_regular",
+    "codepoint": 57431
+  },
+  "rocket": {
+    "icon": "rocket_24_regular",
+    "codepoint": 57432
+  },
+  "database": {
+    "icon": "database_24_regular",
+    "codepoint": 57433
+  },
+  "package": {
+    "icon": "box_24_regular",
+    "codepoint": 57434
+  },
+  "tools": {
+    "icon": "wrench_24_regular",
+    "codepoint": 57435
+  },
+  "zap": {
+    "icon": "flash_24_regular",
+    "codepoint": 57436
+  },
+  "wand": {
+    "icon": "wand_24_regular",
+    "codepoint": 57437
+  },
+  "sync": {
+    "icon": "arrow_sync_24_regular",
+    "codepoint": 57438
+  },
+  "word-wrap": {
+    "icon": "text_wrap_24_regular",
+    "codepoint": 57439
+  },
+  "output": {
+    "icon": "document_text_24_regular",
+    "codepoint": 57440
+  },
+  "list-tree": {
+    "icon": "diagram_24_regular",
+    "codepoint": 57441
+  },
+  "list-flat": {
+    "icon": "list_24_regular",
+    "codepoint": 57415
+  },
+  "preview": {
+    "icon": "eye_24_regular",
+    "codepoint": 57403
+  },
+  "open-preview": {
+    "icon": "eye_24_regular",
+    "codepoint": 57403
+  },
+  "clear-all": {
+    "icon": "eraser_24_regular",
+    "codepoint": 57442
+  },
+  "feedback": {
+    "icon": "chat_24_regular",
+    "codepoint": 57400
+  },
+  "issues": {
+    "icon": "info_24_regular",
+    "codepoint": 57392
+  }
+}

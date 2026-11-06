@@ -1,0 +1,1682 @@
+{
+  "fonts": [
+    {
+      "id": "fluent-filled",
+      "src": [
+        {
+          "path": "./icons.woff",
+          "format": "woff"
+        }
+      ],
+      "weight": "normal",
+      "style": "normal"
+    }
+  ],
+  "iconDefinitions": {
+    "mic": {
+      "fontCharacter": "\\e000"
+    },
+    "case-sensitive": {
+      "fontCharacter": "\\e001"
+    },
+    "whole-word": {
+      "fontCharacter": "\\e002"
+    },
+    "circle-filled": {
+      "fontCharacter": "\\e003"
+    },
+    "bracket": {
+      "fontCharacter": "\\e004"
+    },
+    "files": {
+      "fontCharacter": "\\e005"
+    },
+    "search": {
+      "fontCharacter": "\\e006"
+    },
+    "source-control": {
+      "fontCharacter": "\\e007"
+    },
+    "debug-alt": {
+      "fontCharacter": "\\e008"
+    },
+    "debug-alt-small": {
+      "fontCharacter": "\\e008"
+    },
+    "debug": {
+      "fontCharacter": "\\e008"
+    },
+    "extensions": {
+      "fontCharacter": "\\e009"
+    },
+    "remote-explorer": {
+      "fontCharacter": "\\e00a"
+    },
+    "account": {
+      "fontCharacter": "\\e00b"
+    },
+    "settings-gear": {
+      "fontCharacter": "\\e00c"
+    },
+    "gear": {
+      "fontCharacter": "\\e00c"
+    },
+    "settings": {
+      "fontCharacter": "\\e00d"
+    },
+    "close": {
+      "fontCharacter": "\\e00e"
+    },
+    "add": {
+      "fontCharacter": "\\e00f"
+    },
+    "plus": {
+      "fontCharacter": "\\e00f"
+    },
+    "remove": {
+      "fontCharacter": "\\e010"
+    },
+    "trash": {
+      "fontCharacter": "\\e011"
+    },
+    "refresh": {
+      "fontCharacter": "\\e012"
+    },
+    "copy": {
+      "fontCharacter": "\\e005"
+    },
+    "filter": {
+      "fontCharacter": "\\e013"
+    },
+    "filter-filled": {
+      "fontCharacter": "\\e013"
+    },
+    "ellipsis": {
+      "fontCharacter": "\\e014"
+    },
+    "kebab-vertical": {
+      "fontCharacter": "\\e015"
+    },
+    "new-file": {
+      "fontCharacter": "\\e016"
+    },
+    "new-folder": {
+      "fontCharacter": "\\e017"
+    },
+    "collapse-all": {
+      "fontCharacter": "\\e018"
+    },
+    "expand-all": {
+      "fontCharacter": "\\e019"
+    },
+    "chevron-right": {
+      "fontCharacter": "\\e01a"
+    },
+    "chevron-down": {
+      "fontCharacter": "\\e01b"
+    },
+    "chevron-left": {
+      "fontCharacter": "\\e01c"
+    },
+    "chevron-up": {
+      "fontCharacter": "\\e01d"
+    },
+    "arrow-right": {
+      "fontCharacter": "\\e01e"
+    },
+    "arrow-left": {
+      "fontCharacter": "\\e01f"
+    },
+    "arrow-up": {
+      "fontCharacter": "\\e020"
+    },
+    "arrow-down": {
+      "fontCharacter": "\\e021"
+    },
+    "split-horizontal": {
+      "fontCharacter": "\\e022"
+    },
+    "split-vertical": {
+      "fontCharacter": "\\e023"
+    },
+    "layout-sidebar-left": {
+      "fontCharacter": "\\e024"
+    },
+    "layout-sidebar-left-off": {
+      "fontCharacter": "\\e024"
+    },
+    "layout-sidebar-right": {
+      "fontCharacter": "\\e025"
+    },
+    "layout-sidebar-right-off": {
+      "fontCharacter": "\\e025"
+    },
+    "layout-panel": {
+      "fontCharacter": "\\e026"
+    },
+    "layout-panel-off": {
+      "fontCharacter": "\\e026"
+    },
+    "layout": {
+      "fontCharacter": "\\e027"
+    },
+    "screen-full": {
+      "fontCharacter": "\\e028"
+    },
+    "screen-normal": {
+      "fontCharacter": "\\e029"
+    },
+    "git-compare": {
+      "fontCharacter": "\\e02a"
+    },
+    "git-merge": {
+      "fontCharacter": "\\e02b"
+    },
+    "repo-forked": {
+      "fontCharacter": "\\e02c"
+    },
+    "git-branch": {
+      "fontCharacter": "\\e007"
+    },
+    "check": {
+      "fontCharacter": "\\e02d"
+    },
+    "error": {
+      "fontCharacter": "\\e02e"
+    },
+    "warning": {
+      "fontCharacter": "\\e02f"
+    },
+    "info": {
+      "fontCharacter": "\\e030"
+    },
+    "pass": {
+      "fontCharacter": "\\e031"
+    },
+    "pass-filled": {
+      "fontCharacter": "\\e031"
+    },
+    "bell": {
+      "fontCharacter": "\\e032"
+    },
+    "bell-dot": {
+      "fontCharacter": "\\e033"
+    },
+    "play": {
+      "fontCharacter": "\\e034"
+    },
+    "debug-start": {
+      "fontCharacter": "\\e034"
+    },
+    "run-all": {
+      "fontCharacter": "\\e034"
+    },
+    "debug-pause": {
+      "fontCharacter": "\\e035"
+    },
+    "debug-stop": {
+      "fontCharacter": "\\e036"
+    },
+    "debug-restart": {
+      "fontCharacter": "\\e012"
+    },
+    "debug-continue": {
+      "fontCharacter": "\\e037"
+    },
+    "comment": {
+      "fontCharacter": "\\e038"
+    },
+    "comment-discussion": {
+      "fontCharacter": "\\e039"
+    },
+    "history": {
+      "fontCharacter": "\\e03a"
+    },
+    "eye": {
+      "fontCharacter": "\\e03b"
+    },
+    "eye-closed": {
+      "fontCharacter": "\\e03c"
+    },
+    "pin": {
+      "fontCharacter": "\\e03d"
+    },
+    "pinned": {
+      "fontCharacter": "\\e03d"
+    },
+    "edit": {
+      "fontCharacter": "\\e03e"
+    },
+    "save": {
+      "fontCharacter": "\\e03f"
+    },
+    "save-all": {
+      "fontCharacter": "\\e040"
+    },
+    "home": {
+      "fontCharacter": "\\e041"
+    },
+    "globe": {
+      "fontCharacter": "\\e042"
+    },
+    "link": {
+      "fontCharacter": "\\e043"
+    },
+    "link-external": {
+      "fontCharacter": "\\e044"
+    },
+    "lock": {
+      "fontCharacter": "\\e045"
+    },
+    "unlock": {
+      "fontCharacter": "\\e046"
+    },
+    "menu": {
+      "fontCharacter": "\\e047"
+    },
+    "replace": {
+      "fontCharacter": "\\e048"
+    },
+    "replace-all": {
+      "fontCharacter": "\\e048"
+    },
+    "sparkle": {
+      "fontCharacter": "\\e049"
+    },
+    "chat-sparkle": {
+      "fontCharacter": "\\e04a"
+    },
+    "go-to-file": {
+      "fontCharacter": "\\e04b"
+    },
+    "cloud": {
+      "fontCharacter": "\\e04c"
+    },
+    "cloud-download": {
+      "fontCharacter": "\\e04d"
+    },
+    "cloud-upload": {
+      "fontCharacter": "\\e04e"
+    },
+    "book": {
+      "fontCharacter": "\\e04f"
+    },
+    "folder": {
+      "fontCharacter": "\\e050"
+    },
+    "folder-opened": {
+      "fontCharacter": "\\e051"
+    },
+    "file": {
+      "fontCharacter": "\\e052"
+    },
+    "star": {
+      "fontCharacter": "\\e053"
+    },
+    "star-empty": {
+      "fontCharacter": "\\e053"
+    },
+    "tag": {
+      "fontCharacter": "\\e054"
+    },
+    "key": {
+      "fontCharacter": "\\e055"
+    },
+    "person": {
+      "fontCharacter": "\\e056"
+    },
+    "beaker": {
+      "fontCharacter": "\\e057"
+    },
+    "rocket": {
+      "fontCharacter": "\\e058"
+    },
+    "database": {
+      "fontCharacter": "\\e059"
+    },
+    "package": {
+      "fontCharacter": "\\e05a"
+    },
+    "tools": {
+      "fontCharacter": "\\e05b"
+    },
+    "zap": {
+      "fontCharacter": "\\e05c"
+    },
+    "wand": {
+      "fontCharacter": "\\e05d"
+    },
+    "sync": {
+      "fontCharacter": "\\e05e"
+    },
+    "word-wrap": {
+      "fontCharacter": "\\e05f"
+    },
+    "output": {
+      "fontCharacter": "\\e060"
+    },
+    "list-tree": {
+      "fontCharacter": "\\e061"
+    },
+    "list-flat": {
+      "fontCharacter": "\\e047"
+    },
+    "preview": {
+      "fontCharacter": "\\e03b"
+    },
+    "open-preview": {
+      "fontCharacter": "\\e03b"
+    },
+    "clear-all": {
+      "fontCharacter": "\\e062"
+    },
+    "feedback": {
+      "fontCharacter": "\\e038"
+    },
+    "issues": {
+      "fontCharacter": "\\e030"
+    },
+    "toolbar-more": {
+      "fontCharacter": "\\e014"
+    },
+    "drop-down-button": {
+      "fontCharacter": "\\e01b"
+    },
+    "extensions-verified-publisher": {
+      "fontCharacter": "\\e031"
+    },
+    "verified": {
+      "fontCharacter": "\\e031"
+    },
+    "verified-filled": {
+      "fontCharacter": "\\e031"
+    },
+    "mic-filled": {
+      "fontCharacter": "\\e000"
+    },
+    "mic-compact": {
+      "fontCharacter": "\\e000"
+    },
+    "record-small": {
+      "fontCharacter": "\\e003"
+    },
+    "circle-small-filled": {
+      "fontCharacter": "\\e003"
+    },
+    "circle-small": {
+      "fontCharacter": "\\e003"
+    },
+    "circle": {
+      "fontCharacter": "\\e003"
+    },
+    "primitive-dot": {
+      "fontCharacter": "\\e003"
+    },
+    "agent-compact": {
+      "fontCharacter": "\\e04a"
+    },
+    "settings-compact": {
+      "fontCharacter": "\\e00c"
+    },
+    "vm-compact": {
+      "fontCharacter": "\\e00a"
+    },
+    "shield-compact": {
+      "fontCharacter": "\\e045"
+    },
+    "add-compact": {
+      "fontCharacter": "\\e00f"
+    },
+    "preserve-case": {
+      "fontCharacter": "\\e001"
+    },
+    "symbol-string": {
+      "fontCharacter": "\\e001"
+    },
+    "symbol-key": {
+      "fontCharacter": "\\e055"
+    },
+    "json": {
+      "fontCharacter": "\\e004"
+    },
+    "symbol-namespace": {
+      "fontCharacter": "\\e004"
+    },
+    "search-large": {
+      "fontCharacter": "\\e006"
+    },
+    "search-fuzzy": {
+      "fontCharacter": "\\e006"
+    },
+    "search-sparkle": {
+      "fontCharacter": "\\e006"
+    },
+    "search-view-icon": {
+      "fontCharacter": "\\e006"
+    },
+    "explorer-view-icon": {
+      "fontCharacter": "\\e005"
+    },
+    "source-control-view-icon": {
+      "fontCharacter": "\\e007"
+    },
+    "run-view-icon": {
+      "fontCharacter": "\\e008"
+    },
+    "extensions-view-icon": {
+      "fontCharacter": "\\e009"
+    },
+    "extensions-large": {
+      "fontCharacter": "\\e009"
+    },
+    "remote-explorer-view-icon": {
+      "fontCharacter": "\\e00a"
+    },
+    "test-view-icon": {
+      "fontCharacter": "\\e057"
+    },
+    "testing-view-icon": {
+      "fontCharacter": "\\e057"
+    },
+    "timeline-view-icon": {
+      "fontCharacter": "\\e03a"
+    },
+    "outline-view-icon": {
+      "fontCharacter": "\\e061"
+    },
+    "symbol-class": {
+      "fontCharacter": "\\e05a"
+    },
+    "symbol-method": {
+      "fontCharacter": "\\e05c"
+    },
+    "symbol-field": {
+      "fontCharacter": "\\e054"
+    },
+    "symbol-property": {
+      "fontCharacter": "\\e054"
+    },
+    "symbol-variable": {
+      "fontCharacter": "\\e054"
+    },
+    "symbol-file": {
+      "fontCharacter": "\\e052"
+    },
+    "chat-view-icon": {
+      "fontCharacter": "\\e04a"
+    },
+    "comments-view-icon": {
+      "fontCharacter": "\\e039"
+    },
+    "output-view-icon": {
+      "fontCharacter": "\\e060"
+    },
+    "markers-view-icon": {
+      "fontCharacter": "\\e02f"
+    },
+    "ports-view-icon": {
+      "fontCharacter": "\\e042"
+    },
+    "open-editors-view-icon": {
+      "fontCharacter": "\\e04f"
+    },
+    "accounts-view-bar-icon": {
+      "fontCharacter": "\\e00b"
+    },
+    "settings-view-bar-icon": {
+      "fontCharacter": "\\e00c"
+    },
+    "settings-sync-view-icon": {
+      "fontCharacter": "\\e05e"
+    },
+    "default-view-icon": {
+      "fontCharacter": "\\e027"
+    },
+    "variables-view-icon": {
+      "fontCharacter": "\\e008"
+    },
+    "watch-view-icon": {
+      "fontCharacter": "\\e03b"
+    },
+    "callstack-view-icon": {
+      "fontCharacter": "\\e008"
+    },
+    "breakpoints-view-icon": {
+      "fontCharacter": "\\e008"
+    },
+    "loaded-scripts-view-icon": {
+      "fontCharacter": "\\e008"
+    },
+    "ai-customization-view-icon": {
+      "fontCharacter": "\\e049"
+    },
+    "edit-sessions-view-icon": {
+      "fontCharacter": "\\e04d"
+    },
+    "refactor-preview-view-icon": {
+      "fontCharacter": "\\e049"
+    },
+    "private-ports-view-icon": {
+      "fontCharacter": "\\e045"
+    },
+    "voice-transcripts-view-icon": {
+      "fontCharacter": "\\e03a"
+    },
+    "window": {
+      "fontCharacter": "\\e027"
+    },
+    "empty-window": {
+      "fontCharacter": "\\e027"
+    },
+    "plug": {
+      "fontCharacter": "\\e042"
+    },
+    "radio-tower": {
+      "fontCharacter": "\\e042"
+    },
+    "broadcast": {
+      "fontCharacter": "\\e042"
+    },
+    "remote": {
+      "fontCharacter": "\\e00a"
+    },
+    "variable-group": {
+      "fontCharacter": "\\e047"
+    },
+    "lightbulb": {
+      "fontCharacter": "\\e049"
+    },
+    "light-bulb": {
+      "fontCharacter": "\\e049"
+    },
+    "lightbulb-autofix": {
+      "fontCharacter": "\\e05d"
+    },
+    "lightbulb-sparkle": {
+      "fontCharacter": "\\e05d"
+    },
+    "copilot": {
+      "fontCharacter": "\\e04a"
+    },
+    "copilot-compact": {
+      "fontCharacter": "\\e04a"
+    },
+    "agent": {
+      "fontCharacter": "\\e04a"
+    },
+    "mcp": {
+      "fontCharacter": "\\e009"
+    },
+    "sparkle-filled": {
+      "fontCharacter": "\\e049"
+    },
+    "chat": {
+      "fontCharacter": "\\e038"
+    },
+    "notebook": {
+      "fontCharacter": "\\e04f"
+    },
+    "library": {
+      "fontCharacter": "\\e04f"
+    },
+    "github": {
+      "fontCharacter": "\\e007"
+    },
+    "github-inverted": {
+      "fontCharacter": "\\e007"
+    },
+    "git-branch-changes": {
+      "fontCharacter": "\\e007"
+    },
+    "git-branch-staged-changes": {
+      "fontCharacter": "\\e007"
+    },
+    "git-branch-conflicts": {
+      "fontCharacter": "\\e007"
+    },
+    "git-fetch": {
+      "fontCharacter": "\\e05e"
+    },
+    "repo": {
+      "fontCharacter": "\\e007"
+    },
+    "repo-push": {
+      "fontCharacter": "\\e04e"
+    },
+    "repo-pull": {
+      "fontCharacter": "\\e04d"
+    },
+    "repo-clone": {
+      "fontCharacter": "\\e04d"
+    },
+    "repo-sync": {
+      "fontCharacter": "\\e05e"
+    },
+    "sync-ignored": {
+      "fontCharacter": "\\e05e"
+    },
+    "loading": {
+      "fontCharacter": "\\e05e"
+    },
+    "loading-compact": {
+      "fontCharacter": "\\e05e"
+    },
+    "tree-item-loading": {
+      "fontCharacter": "\\e05e"
+    },
+    "git-stash": {
+      "fontCharacter": "\\e05a"
+    },
+    "git-stash-apply": {
+      "fontCharacter": "\\e05a"
+    },
+    "git-stash-pop": {
+      "fontCharacter": "\\e05a"
+    },
+    "diff-multiple": {
+      "fontCharacter": "\\e02a"
+    },
+    "diff-single": {
+      "fontCharacter": "\\e02a"
+    },
+    "diff": {
+      "fontCharacter": "\\e02a"
+    },
+    "compare-changes": {
+      "fontCharacter": "\\e02a"
+    },
+    "issue-closed": {
+      "fontCharacter": "\\e031"
+    },
+    "discard": {
+      "fontCharacter": "\\e012"
+    },
+    "redo": {
+      "fontCharacter": "\\e012"
+    },
+    "debug-disconnect": {
+      "fontCharacter": "\\e00e"
+    },
+    "run": {
+      "fontCharacter": "\\e034"
+    },
+    "play-circle": {
+      "fontCharacter": "\\e034"
+    },
+    "stop-circle": {
+      "fontCharacter": "\\e036"
+    },
+    "circle-slash": {
+      "fontCharacter": "\\e02e"
+    },
+    "error-compact": {
+      "fontCharacter": "\\e02e"
+    },
+    "warning-compact": {
+      "fontCharacter": "\\e02f"
+    },
+    "check-compact": {
+      "fontCharacter": "\\e02d"
+    },
+    "bell-slash": {
+      "fontCharacter": "\\e032"
+    },
+    "bell-slash-dot": {
+      "fontCharacter": "\\e032"
+    },
+    "question": {
+      "fontCharacter": "\\e030"
+    },
+    "report-question": {
+      "fontCharacter": "\\e030"
+    },
+    "dialog-warning": {
+      "fontCharacter": "\\e02f"
+    },
+    "shield": {
+      "fontCharacter": "\\e045"
+    },
+    "workspace-trusted": {
+      "fontCharacter": "\\e045"
+    },
+    "workspace-untrusted": {
+      "fontCharacter": "\\e046"
+    },
+    "lock-small": {
+      "fontCharacter": "\\e045"
+    },
+    "unverified": {
+      "fontCharacter": "\\e02f"
+    },
+    "close-small": {
+      "fontCharacter": "\\e00e"
+    },
+    "close-compact": {
+      "fontCharacter": "\\e00e"
+    },
+    "close-all": {
+      "fontCharacter": "\\e00e"
+    },
+    "x": {
+      "fontCharacter": "\\e00e"
+    },
+    "remove-close": {
+      "fontCharacter": "\\e00e"
+    },
+    "close-dirty": {
+      "fontCharacter": "\\e00e"
+    },
+    "chevron-right-compact": {
+      "fontCharacter": "\\e01a"
+    },
+    "chevron-down-compact": {
+      "fontCharacter": "\\e01b"
+    },
+    "arrow-up-compact": {
+      "fontCharacter": "\\e020"
+    },
+    "tree-item-expanded": {
+      "fontCharacter": "\\e01b"
+    },
+    "more": {
+      "fontCharacter": "\\e014"
+    },
+    "arrow-swap": {
+      "fontCharacter": "\\e048"
+    },
+    "star-full": {
+      "fontCharacter": "\\e053"
+    },
+    "bookmark": {
+      "fontCharacter": "\\e054"
+    },
+    "archive": {
+      "fontCharacter": "\\e05a"
+    },
+    "server": {
+      "fontCharacter": "\\e059"
+    },
+    "vm": {
+      "fontCharacter": "\\e00a"
+    },
+    "device-mobile": {
+      "fontCharacter": "\\e00a"
+    },
+    "wrench": {
+      "fontCharacter": "\\e05b"
+    },
+    "file-code": {
+      "fontCharacter": "\\e052"
+    },
+    "file-media": {
+      "fontCharacter": "\\e052"
+    },
+    "file-text": {
+      "fontCharacter": "\\e052"
+    },
+    "new-line": {
+      "fontCharacter": "\\e05f"
+    },
+    "pencil": {
+      "fontCharacter": "\\e03e"
+    },
+    "trashcan": {
+      "fontCharacter": "\\e011"
+    },
+    "clock": {
+      "fontCharacter": "\\e03a"
+    },
+    "calendar": {
+      "fontCharacter": "\\e03a"
+    },
+    "target": {
+      "fontCharacter": "\\e006"
+    },
+    "inspect": {
+      "fontCharacter": "\\e006"
+    },
+    "layout-centered": {
+      "fontCharacter": "\\e027"
+    },
+    "fold": {
+      "fontCharacter": "\\e018"
+    },
+    "code": {
+      "fontCharacter": "\\e052"
+    },
+    "circle-large-outline": {
+      "fontCharacter": "\\e031"
+    },
+    "send": {
+      "fontCharacter": "\\e01e"
+    },
+    "reply": {
+      "fontCharacter": "\\e01f"
+    },
+    "move": {
+      "fontCharacter": "\\e01e"
+    },
+    "organization": {
+      "fontCharacter": "\\e00b"
+    },
+    "record": {
+      "fontCharacter": "\\e034"
+    },
+    "record-keys": {
+      "fontCharacter": "\\e034"
+    },
+    "thumbsup": {
+      "fontCharacter": "\\e02d"
+    },
+    "case-sensitive-compact": {
+      "fontCharacter": "\\e001"
+    },
+    "whole-word-compact": {
+      "fontCharacter": "\\e002"
+    },
+    "circle-filled-compact": {
+      "fontCharacter": "\\e003"
+    },
+    "bracket-compact": {
+      "fontCharacter": "\\e004"
+    },
+    "files-compact": {
+      "fontCharacter": "\\e005"
+    },
+    "search-compact": {
+      "fontCharacter": "\\e006"
+    },
+    "source-control-compact": {
+      "fontCharacter": "\\e007"
+    },
+    "debug-alt-compact": {
+      "fontCharacter": "\\e008"
+    },
+    "debug-alt-small-compact": {
+      "fontCharacter": "\\e008"
+    },
+    "debug-compact": {
+      "fontCharacter": "\\e008"
+    },
+    "extensions-compact": {
+      "fontCharacter": "\\e009"
+    },
+    "remote-explorer-compact": {
+      "fontCharacter": "\\e00a"
+    },
+    "account-compact": {
+      "fontCharacter": "\\e00b"
+    },
+    "settings-gear-compact": {
+      "fontCharacter": "\\e00c"
+    },
+    "gear-compact": {
+      "fontCharacter": "\\e00c"
+    },
+    "plus-compact": {
+      "fontCharacter": "\\e00f"
+    },
+    "remove-compact": {
+      "fontCharacter": "\\e010"
+    },
+    "trash-compact": {
+      "fontCharacter": "\\e011"
+    },
+    "refresh-compact": {
+      "fontCharacter": "\\e012"
+    },
+    "copy-compact": {
+      "fontCharacter": "\\e005"
+    },
+    "filter-compact": {
+      "fontCharacter": "\\e013"
+    },
+    "filter-filled-compact": {
+      "fontCharacter": "\\e013"
+    },
+    "ellipsis-compact": {
+      "fontCharacter": "\\e014"
+    },
+    "kebab-vertical-compact": {
+      "fontCharacter": "\\e015"
+    },
+    "new-file-compact": {
+      "fontCharacter": "\\e016"
+    },
+    "new-folder-compact": {
+      "fontCharacter": "\\e017"
+    },
+    "collapse-all-compact": {
+      "fontCharacter": "\\e018"
+    },
+    "expand-all-compact": {
+      "fontCharacter": "\\e019"
+    },
+    "chevron-left-compact": {
+      "fontCharacter": "\\e01c"
+    },
+    "chevron-up-compact": {
+      "fontCharacter": "\\e01d"
+    },
+    "arrow-right-compact": {
+      "fontCharacter": "\\e01e"
+    },
+    "arrow-left-compact": {
+      "fontCharacter": "\\e01f"
+    },
+    "arrow-down-compact": {
+      "fontCharacter": "\\e021"
+    },
+    "split-horizontal-compact": {
+      "fontCharacter": "\\e022"
+    },
+    "split-vertical-compact": {
+      "fontCharacter": "\\e023"
+    },
+    "layout-sidebar-left-compact": {
+      "fontCharacter": "\\e024"
+    },
+    "layout-sidebar-left-off-compact": {
+      "fontCharacter": "\\e024"
+    },
+    "layout-sidebar-right-compact": {
+      "fontCharacter": "\\e025"
+    },
+    "layout-sidebar-right-off-compact": {
+      "fontCharacter": "\\e025"
+    },
+    "layout-panel-compact": {
+      "fontCharacter": "\\e026"
+    },
+    "layout-panel-off-compact": {
+      "fontCharacter": "\\e026"
+    },
+    "layout-compact": {
+      "fontCharacter": "\\e027"
+    },
+    "screen-full-compact": {
+      "fontCharacter": "\\e028"
+    },
+    "screen-normal-compact": {
+      "fontCharacter": "\\e029"
+    },
+    "git-compare-compact": {
+      "fontCharacter": "\\e02a"
+    },
+    "git-merge-compact": {
+      "fontCharacter": "\\e02b"
+    },
+    "repo-forked-compact": {
+      "fontCharacter": "\\e02c"
+    },
+    "git-branch-compact": {
+      "fontCharacter": "\\e007"
+    },
+    "info-compact": {
+      "fontCharacter": "\\e030"
+    },
+    "pass-compact": {
+      "fontCharacter": "\\e031"
+    },
+    "pass-filled-compact": {
+      "fontCharacter": "\\e031"
+    },
+    "bell-compact": {
+      "fontCharacter": "\\e032"
+    },
+    "bell-dot-compact": {
+      "fontCharacter": "\\e033"
+    },
+    "play-compact": {
+      "fontCharacter": "\\e034"
+    },
+    "debug-start-compact": {
+      "fontCharacter": "\\e034"
+    },
+    "run-all-compact": {
+      "fontCharacter": "\\e034"
+    },
+    "debug-pause-compact": {
+      "fontCharacter": "\\e035"
+    },
+    "debug-stop-compact": {
+      "fontCharacter": "\\e036"
+    },
+    "debug-restart-compact": {
+      "fontCharacter": "\\e012"
+    },
+    "debug-continue-compact": {
+      "fontCharacter": "\\e037"
+    },
+    "comment-compact": {
+      "fontCharacter": "\\e038"
+    },
+    "comment-discussion-compact": {
+      "fontCharacter": "\\e039"
+    },
+    "history-compact": {
+      "fontCharacter": "\\e03a"
+    },
+    "eye-compact": {
+      "fontCharacter": "\\e03b"
+    },
+    "eye-closed-compact": {
+      "fontCharacter": "\\e03c"
+    },
+    "pin-compact": {
+      "fontCharacter": "\\e03d"
+    },
+    "pinned-compact": {
+      "fontCharacter": "\\e03d"
+    },
+    "edit-compact": {
+      "fontCharacter": "\\e03e"
+    },
+    "save-compact": {
+      "fontCharacter": "\\e03f"
+    },
+    "save-all-compact": {
+      "fontCharacter": "\\e040"
+    },
+    "home-compact": {
+      "fontCharacter": "\\e041"
+    },
+    "globe-compact": {
+      "fontCharacter": "\\e042"
+    },
+    "link-compact": {
+      "fontCharacter": "\\e043"
+    },
+    "link-external-compact": {
+      "fontCharacter": "\\e044"
+    },
+    "lock-compact": {
+      "fontCharacter": "\\e045"
+    },
+    "unlock-compact": {
+      "fontCharacter": "\\e046"
+    },
+    "menu-compact": {
+      "fontCharacter": "\\e047"
+    },
+    "replace-compact": {
+      "fontCharacter": "\\e048"
+    },
+    "replace-all-compact": {
+      "fontCharacter": "\\e048"
+    },
+    "sparkle-compact": {
+      "fontCharacter": "\\e049"
+    },
+    "chat-sparkle-compact": {
+      "fontCharacter": "\\e04a"
+    },
+    "go-to-file-compact": {
+      "fontCharacter": "\\e04b"
+    },
+    "cloud-compact": {
+      "fontCharacter": "\\e04c"
+    },
+    "cloud-download-compact": {
+      "fontCharacter": "\\e04d"
+    },
+    "cloud-upload-compact": {
+      "fontCharacter": "\\e04e"
+    },
+    "book-compact": {
+      "fontCharacter": "\\e04f"
+    },
+    "folder-compact": {
+      "fontCharacter": "\\e050"
+    },
+    "folder-opened-compact": {
+      "fontCharacter": "\\e051"
+    },
+    "file-compact": {
+      "fontCharacter": "\\e052"
+    },
+    "star-compact": {
+      "fontCharacter": "\\e053"
+    },
+    "star-empty-compact": {
+      "fontCharacter": "\\e053"
+    },
+    "tag-compact": {
+      "fontCharacter": "\\e054"
+    },
+    "key-compact": {
+      "fontCharacter": "\\e055"
+    },
+    "person-compact": {
+      "fontCharacter": "\\e056"
+    },
+    "beaker-compact": {
+      "fontCharacter": "\\e057"
+    },
+    "rocket-compact": {
+      "fontCharacter": "\\e058"
+    },
+    "database-compact": {
+      "fontCharacter": "\\e059"
+    },
+    "package-compact": {
+      "fontCharacter": "\\e05a"
+    },
+    "tools-compact": {
+      "fontCharacter": "\\e05b"
+    },
+    "zap-compact": {
+      "fontCharacter": "\\e05c"
+    },
+    "wand-compact": {
+      "fontCharacter": "\\e05d"
+    },
+    "sync-compact": {
+      "fontCharacter": "\\e05e"
+    },
+    "word-wrap-compact": {
+      "fontCharacter": "\\e05f"
+    },
+    "output-compact": {
+      "fontCharacter": "\\e060"
+    },
+    "list-tree-compact": {
+      "fontCharacter": "\\e061"
+    },
+    "list-flat-compact": {
+      "fontCharacter": "\\e047"
+    },
+    "preview-compact": {
+      "fontCharacter": "\\e03b"
+    },
+    "open-preview-compact": {
+      "fontCharacter": "\\e03b"
+    },
+    "clear-all-compact": {
+      "fontCharacter": "\\e062"
+    },
+    "feedback-compact": {
+      "fontCharacter": "\\e038"
+    },
+    "issues-compact": {
+      "fontCharacter": "\\e030"
+    },
+    "toolbar-more-compact": {
+      "fontCharacter": "\\e014"
+    },
+    "drop-down-button-compact": {
+      "fontCharacter": "\\e01b"
+    },
+    "extensions-verified-publisher-compact": {
+      "fontCharacter": "\\e031"
+    },
+    "verified-compact": {
+      "fontCharacter": "\\e031"
+    },
+    "verified-filled-compact": {
+      "fontCharacter": "\\e031"
+    },
+    "mic-filled-compact": {
+      "fontCharacter": "\\e000"
+    },
+    "mic-compact-compact": {
+      "fontCharacter": "\\e000"
+    },
+    "record-small-compact": {
+      "fontCharacter": "\\e003"
+    },
+    "circle-small-filled-compact": {
+      "fontCharacter": "\\e003"
+    },
+    "circle-small-compact": {
+      "fontCharacter": "\\e003"
+    },
+    "circle-compact": {
+      "fontCharacter": "\\e003"
+    },
+    "primitive-dot-compact": {
+      "fontCharacter": "\\e003"
+    },
+    "agent-compact-compact": {
+      "fontCharacter": "\\e04a"
+    },
+    "settings-compact-compact": {
+      "fontCharacter": "\\e00c"
+    },
+    "vm-compact-compact": {
+      "fontCharacter": "\\e00a"
+    },
+    "shield-compact-compact": {
+      "fontCharacter": "\\e045"
+    },
+    "add-compact-compact": {
+      "fontCharacter": "\\e00f"
+    },
+    "preserve-case-compact": {
+      "fontCharacter": "\\e001"
+    },
+    "symbol-string-compact": {
+      "fontCharacter": "\\e001"
+    },
+    "symbol-key-compact": {
+      "fontCharacter": "\\e055"
+    },
+    "json-compact": {
+      "fontCharacter": "\\e004"
+    },
+    "symbol-namespace-compact": {
+      "fontCharacter": "\\e004"
+    },
+    "search-large-compact": {
+      "fontCharacter": "\\e006"
+    },
+    "search-fuzzy-compact": {
+      "fontCharacter": "\\e006"
+    },
+    "search-sparkle-compact": {
+      "fontCharacter": "\\e006"
+    },
+    "search-view-icon-compact": {
+      "fontCharacter": "\\e006"
+    },
+    "explorer-view-icon-compact": {
+      "fontCharacter": "\\e005"
+    },
+    "source-control-view-icon-compact": {
+      "fontCharacter": "\\e007"
+    },
+    "run-view-icon-compact": {
+      "fontCharacter": "\\e008"
+    },
+    "extensions-view-icon-compact": {
+      "fontCharacter": "\\e009"
+    },
+    "extensions-large-compact": {
+      "fontCharacter": "\\e009"
+    },
+    "remote-explorer-view-icon-compact": {
+      "fontCharacter": "\\e00a"
+    },
+    "test-view-icon-compact": {
+      "fontCharacter": "\\e057"
+    },
+    "testing-view-icon-compact": {
+      "fontCharacter": "\\e057"
+    },
+    "timeline-view-icon-compact": {
+      "fontCharacter": "\\e03a"
+    },
+    "outline-view-icon-compact": {
+      "fontCharacter": "\\e061"
+    },
+    "symbol-class-compact": {
+      "fontCharacter": "\\e05a"
+    },
+    "symbol-method-compact": {
+      "fontCharacter": "\\e05c"
+    },
+    "symbol-field-compact": {
+      "fontCharacter": "\\e054"
+    },
+    "symbol-property-compact": {
+      "fontCharacter": "\\e054"
+    },
+    "symbol-variable-compact": {
+      "fontCharacter": "\\e054"
+    },
+    "symbol-file-compact": {
+      "fontCharacter": "\\e052"
+    },
+    "chat-view-icon-compact": {
+      "fontCharacter": "\\e04a"
+    },
+    "comments-view-icon-compact": {
+      "fontCharacter": "\\e039"
+    },
+    "output-view-icon-compact": {
+      "fontCharacter": "\\e060"
+    },
+    "markers-view-icon-compact": {
+      "fontCharacter": "\\e02f"
+    },
+    "ports-view-icon-compact": {
+      "fontCharacter": "\\e042"
+    },
+    "open-editors-view-icon-compact": {
+      "fontCharacter": "\\e04f"
+    },
+    "accounts-view-bar-icon-compact": {
+      "fontCharacter": "\\e00b"
+    },
+    "settings-view-bar-icon-compact": {
+      "fontCharacter": "\\e00c"
+    },
+    "settings-sync-view-icon-compact": {
+      "fontCharacter": "\\e05e"
+    },
+    "default-view-icon-compact": {
+      "fontCharacter": "\\e027"
+    },
+    "variables-view-icon-compact": {
+      "fontCharacter": "\\e008"
+    },
+    "watch-view-icon-compact": {
+      "fontCharacter": "\\e03b"
+    },
+    "callstack-view-icon-compact": {
+      "fontCharacter": "\\e008"
+    },
+    "breakpoints-view-icon-compact": {
+      "fontCharacter": "\\e008"
+    },
+    "loaded-scripts-view-icon-compact": {
+      "fontCharacter": "\\e008"
+    },
+    "ai-customization-view-icon-compact": {
+      "fontCharacter": "\\e049"
+    },
+    "edit-sessions-view-icon-compact": {
+      "fontCharacter": "\\e04d"
+    },
+    "refactor-preview-view-icon-compact": {
+      "fontCharacter": "\\e049"
+    },
+    "private-ports-view-icon-compact": {
+      "fontCharacter": "\\e045"
+    },
+    "voice-transcripts-view-icon-compact": {
+      "fontCharacter": "\\e03a"
+    },
+    "window-compact": {
+      "fontCharacter": "\\e027"
+    },
+    "empty-window-compact": {
+      "fontCharacter": "\\e027"
+    },
+    "plug-compact": {
+      "fontCharacter": "\\e042"
+    },
+    "radio-tower-compact": {
+      "fontCharacter": "\\e042"
+    },
+    "broadcast-compact": {
+      "fontCharacter": "\\e042"
+    },
+    "remote-compact": {
+      "fontCharacter": "\\e00a"
+    },
+    "variable-group-compact": {
+      "fontCharacter": "\\e047"
+    },
+    "lightbulb-compact": {
+      "fontCharacter": "\\e049"
+    },
+    "light-bulb-compact": {
+      "fontCharacter": "\\e049"
+    },
+    "lightbulb-autofix-compact": {
+      "fontCharacter": "\\e05d"
+    },
+    "lightbulb-sparkle-compact": {
+      "fontCharacter": "\\e05d"
+    },
+    "copilot-compact-compact": {
+      "fontCharacter": "\\e04a"
+    },
+    "mcp-compact": {
+      "fontCharacter": "\\e009"
+    },
+    "sparkle-filled-compact": {
+      "fontCharacter": "\\e049"
+    },
+    "chat-compact": {
+      "fontCharacter": "\\e038"
+    },
+    "notebook-compact": {
+      "fontCharacter": "\\e04f"
+    },
+    "library-compact": {
+      "fontCharacter": "\\e04f"
+    },
+    "github-compact": {
+      "fontCharacter": "\\e007"
+    },
+    "github-inverted-compact": {
+      "fontCharacter": "\\e007"
+    },
+    "git-branch-changes-compact": {
+      "fontCharacter": "\\e007"
+    },
+    "git-branch-staged-changes-compact": {
+      "fontCharacter": "\\e007"
+    },
+    "git-branch-conflicts-compact": {
+      "fontCharacter": "\\e007"
+    },
+    "git-fetch-compact": {
+      "fontCharacter": "\\e05e"
+    },
+    "repo-compact": {
+      "fontCharacter": "\\e007"
+    },
+    "repo-push-compact": {
+      "fontCharacter": "\\e04e"
+    },
+    "repo-pull-compact": {
+      "fontCharacter": "\\e04d"
+    },
+    "repo-clone-compact": {
+      "fontCharacter": "\\e04d"
+    },
+    "repo-sync-compact": {
+      "fontCharacter": "\\e05e"
+    },
+    "sync-ignored-compact": {
+      "fontCharacter": "\\e05e"
+    },
+    "loading-compact-compact": {
+      "fontCharacter": "\\e05e"
+    },
+    "tree-item-loading-compact": {
+      "fontCharacter": "\\e05e"
+    },
+    "git-stash-compact": {
+      "fontCharacter": "\\e05a"
+    },
+    "git-stash-apply-compact": {
+      "fontCharacter": "\\e05a"
+    },
+    "git-stash-pop-compact": {
+      "fontCharacter": "\\e05a"
+    },
+    "diff-multiple-compact": {
+      "fontCharacter": "\\e02a"
+    },
+    "diff-single-compact": {
+      "fontCharacter": "\\e02a"
+    },
+    "diff-compact": {
+      "fontCharacter": "\\e02a"
+    },
+    "compare-changes-compact": {
+      "fontCharacter": "\\e02a"
+    },
+    "issue-closed-compact": {
+      "fontCharacter": "\\e031"
+    },
+    "discard-compact": {
+      "fontCharacter": "\\e012"
+    },
+    "redo-compact": {
+      "fontCharacter": "\\e012"
+    },
+    "debug-disconnect-compact": {
+      "fontCharacter": "\\e00e"
+    },
+    "run-compact": {
+      "fontCharacter": "\\e034"
+    },
+    "play-circle-compact": {
+      "fontCharacter": "\\e034"
+    },
+    "stop-circle-compact": {
+      "fontCharacter": "\\e036"
+    },
+    "circle-slash-compact": {
+      "fontCharacter": "\\e02e"
+    },
+    "error-compact-compact": {
+      "fontCharacter": "\\e02e"
+    },
+    "warning-compact-compact": {
+      "fontCharacter": "\\e02f"
+    },
+    "check-compact-compact": {
+      "fontCharacter": "\\e02d"
+    },
+    "bell-slash-compact": {
+      "fontCharacter": "\\e032"
+    },
+    "bell-slash-dot-compact": {
+      "fontCharacter": "\\e032"
+    },
+    "question-compact": {
+      "fontCharacter": "\\e030"
+    },
+    "report-question-compact": {
+      "fontCharacter": "\\e030"
+    },
+    "dialog-warning-compact": {
+      "fontCharacter": "\\e02f"
+    },
+    "workspace-trusted-compact": {
+      "fontCharacter": "\\e045"
+    },
+    "workspace-untrusted-compact": {
+      "fontCharacter": "\\e046"
+    },
+    "lock-small-compact": {
+      "fontCharacter": "\\e045"
+    },
+    "unverified-compact": {
+      "fontCharacter": "\\e02f"
+    },
+    "close-small-compact": {
+      "fontCharacter": "\\e00e"
+    },
+    "close-compact-compact": {
+      "fontCharacter": "\\e00e"
+    },
+    "close-all-compact": {
+      "fontCharacter": "\\e00e"
+    },
+    "x-compact": {
+      "fontCharacter": "\\e00e"
+    },
+    "remove-close-compact": {
+      "fontCharacter": "\\e00e"
+    },
+    "close-dirty-compact": {
+      "fontCharacter": "\\e00e"
+    },
+    "chevron-right-compact-compact": {
+      "fontCharacter": "\\e01a"
+    },
+    "chevron-down-compact-compact": {
+      "fontCharacter": "\\e01b"
+    },
+    "arrow-up-compact-compact": {
+      "fontCharacter": "\\e020"
+    },
+    "tree-item-expanded-compact": {
+      "fontCharacter": "\\e01b"
+    },
+    "more-compact": {
+      "fontCharacter": "\\e014"
+    },
+    "arrow-swap-compact": {
+      "fontCharacter": "\\e048"
+    },
+    "star-full-compact": {
+      "fontCharacter": "\\e053"
+    },
+    "bookmark-compact": {
+      "fontCharacter": "\\e054"
+    },
+    "archive-compact": {
+      "fontCharacter": "\\e05a"
+    },
+    "server-compact": {
+      "fontCharacter": "\\e059"
+    },
+    "device-mobile-compact": {
+      "fontCharacter": "\\e00a"
+    },
+    "wrench-compact": {
+      "fontCharacter": "\\e05b"
+    },
+    "file-code-compact": {
+      "fontCharacter": "\\e052"
+    },
+    "file-media-compact": {
+      "fontCharacter": "\\e052"
+    },
+    "file-text-compact": {
+      "fontCharacter": "\\e052"
+    },
+    "new-line-compact": {
+      "fontCharacter": "\\e05f"
+    },
+    "pencil-compact": {
+      "fontCharacter": "\\e03e"
+    },
+    "trashcan-compact": {
+      "fontCharacter": "\\e011"
+    },
+    "clock-compact": {
+      "fontCharacter": "\\e03a"
+    },
+    "calendar-compact": {
+      "fontCharacter": "\\e03a"
+    },
+    "target-compact": {
+      "fontCharacter": "\\e006"
+    },
+    "inspect-compact": {
+      "fontCharacter": "\\e006"
+    },
+    "layout-centered-compact": {
+      "fontCharacter": "\\e027"
+    },
+    "fold-compact": {
+      "fontCharacter": "\\e018"
+    },
+    "code-compact": {
+      "fontCharacter": "\\e052"
+    },
+    "circle-large-outline-compact": {
+      "fontCharacter": "\\e031"
+    },
+    "send-compact": {
+      "fontCharacter": "\\e01e"
+    },
+    "reply-compact": {
+      "fontCharacter": "\\e01f"
+    },
+    "move-compact": {
+      "fontCharacter": "\\e01e"
+    },
+    "organization-compact": {
+      "fontCharacter": "\\e00b"
+    },
+    "record-compact": {
+      "fontCharacter": "\\e034"
+    },
+    "record-keys-compact": {
+      "fontCharacter": "\\e034"
+    },
+    "thumbsup-compact": {
+      "fontCharacter": "\\e02d"
+    }
+  }
+}

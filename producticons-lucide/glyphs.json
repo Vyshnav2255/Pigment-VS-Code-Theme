@@ -1,0 +1,514 @@
+{
+  "mic": {
+    "icon": "mic",
+    "codepoint": 57344
+  },
+  "case-sensitive": {
+    "icon": "case-sensitive",
+    "codepoint": 57345
+  },
+  "whole-word": {
+    "icon": "whole-word",
+    "codepoint": 57346
+  },
+  "regex": {
+    "icon": "regex",
+    "codepoint": 57347
+  },
+  "circle-filled": {
+    "icon": "circle",
+    "codepoint": 57348
+  },
+  "bracket": {
+    "icon": "braces",
+    "codepoint": 57349
+  },
+  "files": {
+    "icon": "files",
+    "codepoint": 57350
+  },
+  "search": {
+    "icon": "search",
+    "codepoint": 57351
+  },
+  "source-control": {
+    "icon": "git-branch",
+    "codepoint": 57352
+  },
+  "debug-alt": {
+    "icon": "bug",
+    "codepoint": 57353
+  },
+  "debug-alt-small": {
+    "icon": "bug",
+    "codepoint": 57353
+  },
+  "debug": {
+    "icon": "bug",
+    "codepoint": 57353
+  },
+  "extensions": {
+    "icon": "blocks",
+    "codepoint": 57354
+  },
+  "remote-explorer": {
+    "icon": "monitor",
+    "codepoint": 57355
+  },
+  "account": {
+    "icon": "circle-user",
+    "codepoint": 57356
+  },
+  "settings-gear": {
+    "icon": "settings",
+    "codepoint": 57357
+  },
+  "gear": {
+    "icon": "settings",
+    "codepoint": 57357
+  },
+  "settings": {
+    "icon": "settings-2",
+    "codepoint": 57358
+  },
+  "close": {
+    "icon": "x",
+    "codepoint": 57359
+  },
+  "add": {
+    "icon": "plus",
+    "codepoint": 57360
+  },
+  "plus": {
+    "icon": "plus",
+    "codepoint": 57360
+  },
+  "remove": {
+    "icon": "minus",
+    "codepoint": 57361
+  },
+  "trash": {
+    "icon": "trash-2",
+    "codepoint": 57362
+  },
+  "refresh": {
+    "icon": "refresh-cw",
+    "codepoint": 57363
+  },
+  "copy": {
+    "icon": "copy",
+    "codepoint": 57364
+  },
+  "filter": {
+    "icon": "list-filter",
+    "codepoint": 57365
+  },
+  "filter-filled": {
+    "icon": "list-filter",
+    "codepoint": 57365
+  },
+  "ellipsis": {
+    "icon": "ellipsis",
+    "codepoint": 57366
+  },
+  "kebab-vertical": {
+    "icon": "ellipsis-vertical",
+    "codepoint": 57367
+  },
+  "new-file": {
+    "icon": "file-plus",
+    "codepoint": 57368
+  },
+  "new-folder": {
+    "icon": "folder-plus",
+    "codepoint": 57369
+  },
+  "collapse-all": {
+    "icon": "chevrons-down-up",
+    "codepoint": 57370
+  },
+  "expand-all": {
+    "icon": "chevrons-up-down",
+    "codepoint": 57371
+  },
+  "chevron-right": {
+    "icon": "chevron-right",
+    "codepoint": 57372
+  },
+  "chevron-down": {
+    "icon": "chevron-down",
+    "codepoint": 57373
+  },
+  "chevron-left": {
+    "icon": "chevron-left",
+    "codepoint": 57374
+  },
+  "chevron-up": {
+    "icon": "chevron-up",
+    "codepoint": 57375
+  },
+  "arrow-right": {
+    "icon": "arrow-right",
+    "codepoint": 57376
+  },
+  "arrow-left": {
+    "icon": "arrow-left",
+    "codepoint": 57377
+  },
+  "arrow-up": {
+    "icon": "arrow-up",
+    "codepoint": 57378
+  },
+  "arrow-down": {
+    "icon": "arrow-down",
+    "codepoint": 57379
+  },
+  "terminal": {
+    "icon": "square-terminal",
+    "codepoint": 57380
+  },
+  "terminal-bash": {
+    "icon": "terminal",
+    "codepoint": 57381
+  },
+  "split-horizontal": {
+    "icon": "columns-2",
+    "codepoint": 57382
+  },
+  "split-vertical": {
+    "icon": "rows-2",
+    "codepoint": 57383
+  },
+  "layout-sidebar-left": {
+    "icon": "panel-left",
+    "codepoint": 57384
+  },
+  "layout-sidebar-left-off": {
+    "icon": "panel-left",
+    "codepoint": 57384
+  },
+  "layout-sidebar-right": {
+    "icon": "panel-right",
+    "codepoint": 57385
+  },
+  "layout-sidebar-right-off": {
+    "icon": "panel-right",
+    "codepoint": 57385
+  },
+  "layout-panel": {
+    "icon": "panel-bottom",
+    "codepoint": 57386
+  },
+  "layout-panel-off": {
+    "icon": "panel-bottom",
+    "codepoint": 57386
+  },
+  "layout": {
+    "icon": "layout-dashboard",
+    "codepoint": 57387
+  },
+  "screen-full": {
+    "icon": "maximize",
+    "codepoint": 57388
+  },
+  "screen-normal": {
+    "icon": "minimize",
+    "codepoint": 57389
+  },
+  "git-commit": {
+    "icon": "git-commit-horizontal",
+    "codepoint": 57390
+  },
+  "git-pull-request": {
+    "icon": "git-pull-request",
+    "codepoint": 57391
+  },
+  "git-compare": {
+    "icon": "git-compare",
+    "codepoint": 57392
+  },
+  "git-merge": {
+    "icon": "git-merge",
+    "codepoint": 57393
+  },
+  "repo-forked": {
+    "icon": "git-fork",
+    "codepoint": 57394
+  },
+  "git-branch": {
+    "icon": "git-branch",
+    "codepoint": 57352
+  },
+  "check": {
+    "icon": "check",
+    "codepoint": 57395
+  },
+  "check-all": {
+    "icon": "check-check",
+    "codepoint": 57396
+  },
+  "error": {
+    "icon": "circle-x",
+    "codepoint": 57397
+  },
+  "warning": {
+    "icon": "triangle-alert",
+    "codepoint": 57398
+  },
+  "info": {
+    "icon": "info",
+    "codepoint": 57399
+  },
+  "pass": {
+    "icon": "circle-check",
+    "codepoint": 57400
+  },
+  "pass-filled": {
+    "icon": "circle-check",
+    "codepoint": 57400
+  },
+  "bell": {
+    "icon": "bell",
+    "codepoint": 57401
+  },
+  "bell-dot": {
+    "icon": "bell-dot",
+    "codepoint": 57402
+  },
+  "play": {
+    "icon": "play",
+    "codepoint": 57403
+  },
+  "debug-start": {
+    "icon": "play",
+    "codepoint": 57403
+  },
+  "run-all": {
+    "icon": "play",
+    "codepoint": 57403
+  },
+  "debug-pause": {
+    "icon": "pause",
+    "codepoint": 57404
+  },
+  "debug-stop": {
+    "icon": "square",
+    "codepoint": 57405
+  },
+  "debug-restart": {
+    "icon": "rotate-cw",
+    "codepoint": 57406
+  },
+  "debug-continue": {
+    "icon": "step-forward",
+    "codepoint": 57407
+  },
+  "comment": {
+    "icon": "message-square",
+    "codepoint": 57408
+  },
+  "comment-discussion": {
+    "icon": "messages-square",
+    "codepoint": 57409
+  },
+  "history": {
+    "icon": "history",
+    "codepoint": 57410
+  },
+  "eye": {
+    "icon": "eye",
+    "codepoint": 57411
+  },
+  "eye-closed": {
+    "icon": "eye-off",
+    "codepoint": 57412
+  },
+  "pin": {
+    "icon": "pin",
+    "codepoint": 57413
+  },
+  "pinned": {
+    "icon": "pin",
+    "codepoint": 57413
+  },
+  "edit": {
+    "icon": "pencil",
+    "codepoint": 57414
+  },
+  "save": {
+    "icon": "save",
+    "codepoint": 57415
+  },
+  "save-all": {
+    "icon": "save-all",
+    "codepoint": 57416
+  },
+  "home": {
+    "icon": "house",
+    "codepoint": 57417
+  },
+  "globe": {
+    "icon": "globe",
+    "codepoint": 57418
+  },
+  "link": {
+    "icon": "link",
+    "codepoint": 57419
+  },
+  "link-external": {
+    "icon": "external-link",
+    "codepoint": 57420
+  },
+  "lock": {
+    "icon": "lock",
+    "codepoint": 57421
+  },
+  "unlock": {
+    "icon": "lock-open",
+    "codepoint": 57422
+  },
+  "menu": {
+    "icon": "menu",
+    "codepoint": 57423
+  },
+  "replace": {
+    "icon": "replace",
+    "codepoint": 57424
+  },
+  "replace-all": {
+    "icon": "replace-all",
+    "codepoint": 57425
+  },
+  "sparkle": {
+    "icon": "sparkles",
+    "codepoint": 57426
+  },
+  "chat-sparkle": {
+    "icon": "bot",
+    "codepoint": 57427
+  },
+  "go-to-file": {
+    "icon": "file-search",
+    "codepoint": 57428
+  },
+  "cloud": {
+    "icon": "cloud",
+    "codepoint": 57429
+  },
+  "cloud-download": {
+    "icon": "cloud-download",
+    "codepoint": 57430
+  },
+  "cloud-upload": {
+    "icon": "cloud-upload",
+    "codepoint": 57431
+  },
+  "book": {
+    "icon": "book-open",
+    "codepoint": 57432
+  },
+  "folder": {
+    "icon": "folder",
+    "codepoint": 57433
+  },
+  "folder-opened": {
+    "icon": "folder-open",
+    "codepoint": 57434
+  },
+  "file": {
+    "icon": "file",
+    "codepoint": 57435
+  },
+  "star": {
+    "icon": "star",
+    "codepoint": 57436
+  },
+  "star-empty": {
+    "icon": "star",
+    "codepoint": 57436
+  },
+  "tag": {
+    "icon": "tag",
+    "codepoint": 57437
+  },
+  "key": {
+    "icon": "key",
+    "codepoint": 57438
+  },
+  "person": {
+    "icon": "user",
+    "codepoint": 57439
+  },
+  "beaker": {
+    "icon": "flask-conical",
+    "codepoint": 57440
+  },
+  "rocket": {
+    "icon": "rocket",
+    "codepoint": 57441
+  },
+  "database": {
+    "icon": "database",
+    "codepoint": 57442
+  },
+  "package": {
+    "icon": "package",
+    "codepoint": 57443
+  },
+  "tools": {
+    "icon": "wrench",
+    "codepoint": 57444
+  },
+  "zap": {
+    "icon": "zap",
+    "codepoint": 57445
+  },
+  "wand": {
+    "icon": "wand-sparkles",
+    "codepoint": 57446
+  },
+  "sync": {
+    "icon": "refresh-cw",
+    "codepoint": 57363
+  },
+  "word-wrap": {
+    "icon": "wrap-text",
+    "codepoint": 57447
+  },
+  "output": {
+    "icon": "scroll-text",
+    "codepoint": 57448
+  },
+  "debug-console": {
+    "icon": "square-terminal",
+    "codepoint": 57380
+  },
+  "list-tree": {
+    "icon": "list-tree",
+    "codepoint": 57449
+  },
+  "list-flat": {
+    "icon": "list",
+    "codepoint": 57450
+  },
+  "preview": {
+    "icon": "eye",
+    "codepoint": 57411
+  },
+  "open-preview": {
+    "icon": "eye",
+    "codepoint": 57411
+  },
+  "clear-all": {
+    "icon": "brush-cleaning",
+    "codepoint": 57451
+  },
+  "feedback": {
+    "icon": "message-square",
+    "codepoint": 57408
+  },
+  "issues": {
+    "icon": "circle-alert",
+    "codepoint": 57452
+  }
+}

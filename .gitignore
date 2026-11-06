@@ -1,0 +1,5 @@
+node_modules/
+*.vsix
+*.contributes.json
+.DS_Store
+__pycache__/

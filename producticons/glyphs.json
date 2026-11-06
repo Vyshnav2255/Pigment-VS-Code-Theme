@@ -1,0 +1,518 @@
+{
+  "mic": {
+    "icon": "Mic01Icon",
+    "codepoint": 57344
+  },
+  "case-sensitive": {
+    "icon": "TextFontIcon",
+    "codepoint": 57345
+  },
+  "whole-word": {
+    "icon": "TextIcon",
+    "codepoint": 57346
+  },
+  "regex": {
+    "icon": "AsteriskIcon",
+    "codepoint": 57347
+  },
+  "circle-filled": {
+    "icon": "CircleIcon",
+    "codepoint": 57348
+  },
+  "bracket": {
+    "icon": "BracesIcon",
+    "codepoint": 57349
+  },
+  "files": {
+    "icon": "Files02Icon",
+    "codepoint": 57350
+  },
+  "search": {
+    "icon": "Search01Icon",
+    "codepoint": 57351
+  },
+  "source-control": {
+    "icon": "GitBranchIcon",
+    "codepoint": 57352
+  },
+  "debug-alt": {
+    "icon": "Bug01Icon",
+    "codepoint": 57353
+  },
+  "debug-alt-small": {
+    "icon": "Bug01Icon",
+    "codepoint": 57353
+  },
+  "debug": {
+    "icon": "Bug01Icon",
+    "codepoint": 57353
+  },
+  "extensions": {
+    "icon": "PuzzleIcon",
+    "codepoint": 57354
+  },
+  "remote-explorer": {
+    "icon": "ComputerIcon",
+    "codepoint": 57355
+  },
+  "account": {
+    "icon": "UserCircleIcon",
+    "codepoint": 57356
+  },
+  "settings-gear": {
+    "icon": "Settings01Icon",
+    "codepoint": 57357
+  },
+  "gear": {
+    "icon": "Settings01Icon",
+    "codepoint": 57357
+  },
+  "settings": {
+    "icon": "Settings02Icon",
+    "codepoint": 57358
+  },
+  "close": {
+    "icon": "Cancel01Icon",
+    "codepoint": 57359
+  },
+  "add": {
+    "icon": "Add01Icon",
+    "codepoint": 57360
+  },
+  "plus": {
+    "icon": "Add01Icon",
+    "codepoint": 57360
+  },
+  "remove": {
+    "icon": "Remove01Icon",
+    "codepoint": 57361
+  },
+  "trash": {
+    "icon": "Delete02Icon",
+    "codepoint": 57362
+  },
+  "refresh": {
+    "icon": "Refresh01Icon",
+    "codepoint": 57363
+  },
+  "copy": {
+    "icon": "Copy01Icon",
+    "codepoint": 57364
+  },
+  "filter": {
+    "icon": "FilterHorizontalIcon",
+    "codepoint": 57365
+  },
+  "filter-filled": {
+    "icon": "FilterHorizontalIcon",
+    "codepoint": 57365
+  },
+  "ellipsis": {
+    "icon": "MoreHorizontalIcon",
+    "codepoint": 57366
+  },
+  "kebab-vertical": {
+    "icon": "MoreVerticalIcon",
+    "codepoint": 57367
+  },
+  "new-file": {
+    "icon": "FileAddIcon",
+    "codepoint": 57368
+  },
+  "new-folder": {
+    "icon": "FolderAddIcon",
+    "codepoint": 57369
+  },
+  "collapse-all": {
+    "icon": "ListCollapseIcon",
+    "codepoint": 57370
+  },
+  "expand-all": {
+    "icon": "ExpandIcon",
+    "codepoint": 57371
+  },
+  "chevron-right": {
+    "icon": "ArrowRight01Icon",
+    "codepoint": 57372
+  },
+  "chevron-down": {
+    "icon": "ArrowDown01Icon",
+    "codepoint": 57373
+  },
+  "chevron-left": {
+    "icon": "ArrowLeft01Icon",
+    "codepoint": 57374
+  },
+  "chevron-up": {
+    "icon": "ArrowUp01Icon",
+    "codepoint": 57375
+  },
+  "arrow-right": {
+    "icon": "ArrowRight02Icon",
+    "codepoint": 57376
+  },
+  "arrow-left": {
+    "icon": "ArrowLeft02Icon",
+    "codepoint": 57377
+  },
+  "arrow-up": {
+    "icon": "ArrowUp02Icon",
+    "codepoint": 57378
+  },
+  "arrow-down": {
+    "icon": "ArrowDown02Icon",
+    "codepoint": 57379
+  },
+  "terminal": {
+    "icon": "ComputerTerminal01Icon",
+    "codepoint": 57380
+  },
+  "terminal-bash": {
+    "icon": "ComputerTerminal01Icon",
+    "codepoint": 57380
+  },
+  "split-horizontal": {
+    "icon": "Layout2ColumnIcon",
+    "codepoint": 57381
+  },
+  "split-vertical": {
+    "icon": "Layout2RowIcon",
+    "codepoint": 57382
+  },
+  "layout-sidebar-left": {
+    "icon": "SidebarLeftIcon",
+    "codepoint": 57383
+  },
+  "layout-sidebar-left-off": {
+    "icon": "SidebarLeftIcon",
+    "codepoint": 57383
+  },
+  "layout-sidebar-right": {
+    "icon": "SidebarRightIcon",
+    "codepoint": 57384
+  },
+  "layout-sidebar-right-off": {
+    "icon": "SidebarRightIcon",
+    "codepoint": 57384
+  },
+  "layout-panel": {
+    "icon": "SidebarBottomIcon",
+    "codepoint": 57385
+  },
+  "layout-panel-off": {
+    "icon": "SidebarBottomIcon",
+    "codepoint": 57385
+  },
+  "layout": {
+    "icon": "Layout01Icon",
+    "codepoint": 57386
+  },
+  "screen-full": {
+    "icon": "ArrowExpand01Icon",
+    "codepoint": 57387
+  },
+  "screen-normal": {
+    "icon": "ArrowShrink01Icon",
+    "codepoint": 57388
+  },
+  "git-commit": {
+    "icon": "GitCommitIcon",
+    "codepoint": 57389
+  },
+  "git-pull-request": {
+    "icon": "GitPullRequestIcon",
+    "codepoint": 57390
+  },
+  "git-compare": {
+    "icon": "GitCompareIcon",
+    "codepoint": 57391
+  },
+  "git-merge": {
+    "icon": "GitMergeIcon",
+    "codepoint": 57392
+  },
+  "repo-forked": {
+    "icon": "GitForkIcon",
+    "codepoint": 57393
+  },
+  "git-branch": {
+    "icon": "GitBranchIcon",
+    "codepoint": 57352
+  },
+  "source-control-view-icon": {
+    "icon": "GitBranchIcon",
+    "codepoint": 57352
+  },
+  "check": {
+    "icon": "Tick02Icon",
+    "codepoint": 57394
+  },
+  "check-all": {
+    "icon": "CheckCheckIcon",
+    "codepoint": 57395
+  },
+  "error": {
+    "icon": "CancelCircleIcon",
+    "codepoint": 57396
+  },
+  "warning": {
+    "icon": "Alert02Icon",
+    "codepoint": 57397
+  },
+  "info": {
+    "icon": "InformationCircleIcon",
+    "codepoint": 57398
+  },
+  "pass": {
+    "icon": "CheckmarkCircle02Icon",
+    "codepoint": 57399
+  },
+  "pass-filled": {
+    "icon": "CheckmarkCircle02Icon",
+    "codepoint": 57399
+  },
+  "bell": {
+    "icon": "Notification01Icon",
+    "codepoint": 57400
+  },
+  "bell-dot": {
+    "icon": "BellDotIcon",
+    "codepoint": 57401
+  },
+  "play": {
+    "icon": "PlayIcon",
+    "codepoint": 57402
+  },
+  "debug-start": {
+    "icon": "PlayIcon",
+    "codepoint": 57402
+  },
+  "run-all": {
+    "icon": "PlayIcon",
+    "codepoint": 57402
+  },
+  "debug-pause": {
+    "icon": "PauseIcon",
+    "codepoint": 57403
+  },
+  "debug-stop": {
+    "icon": "StopIcon",
+    "codepoint": 57404
+  },
+  "debug-restart": {
+    "icon": "Refresh01Icon",
+    "codepoint": 57363
+  },
+  "debug-continue": {
+    "icon": "NextIcon",
+    "codepoint": 57405
+  },
+  "comment": {
+    "icon": "Comment01Icon",
+    "codepoint": 57406
+  },
+  "comment-discussion": {
+    "icon": "BubbleChatIcon",
+    "codepoint": 57407
+  },
+  "history": {
+    "icon": "HistoryIcon",
+    "codepoint": 57408
+  },
+  "eye": {
+    "icon": "EyeIcon",
+    "codepoint": 57409
+  },
+  "eye-closed": {
+    "icon": "ViewOffIcon",
+    "codepoint": 57410
+  },
+  "pin": {
+    "icon": "PinIcon",
+    "codepoint": 57411
+  },
+  "pinned": {
+    "icon": "PinIcon",
+    "codepoint": 57411
+  },
+  "edit": {
+    "icon": "PencilEdit02Icon",
+    "codepoint": 57412
+  },
+  "save": {
+    "icon": "FloppyDiskIcon",
+    "codepoint": 57413
+  },
+  "save-all": {
+    "icon": "SaveAllIcon",
+    "codepoint": 57414
+  },
+  "home": {
+    "icon": "Home01Icon",
+    "codepoint": 57415
+  },
+  "globe": {
+    "icon": "Globe02Icon",
+    "codepoint": 57416
+  },
+  "link": {
+    "icon": "Link01Icon",
+    "codepoint": 57417
+  },
+  "link-external": {
+    "icon": "LinkSquare02Icon",
+    "codepoint": 57418
+  },
+  "lock": {
+    "icon": "SquareLock02Icon",
+    "codepoint": 57419
+  },
+  "unlock": {
+    "icon": "SquareUnlock02Icon",
+    "codepoint": 57420
+  },
+  "menu": {
+    "icon": "Menu01Icon",
+    "codepoint": 57421
+  },
+  "replace": {
+    "icon": "ReplaceIcon",
+    "codepoint": 57422
+  },
+  "replace-all": {
+    "icon": "ReplaceAllIcon",
+    "codepoint": 57423
+  },
+  "sparkle": {
+    "icon": "SparklesIcon",
+    "codepoint": 57424
+  },
+  "chat-sparkle": {
+    "icon": "AiChat02Icon",
+    "codepoint": 57425
+  },
+  "go-to-file": {
+    "icon": "FileSearchIcon",
+    "codepoint": 57426
+  },
+  "cloud": {
+    "icon": "CloudIcon",
+    "codepoint": 57427
+  },
+  "cloud-download": {
+    "icon": "CloudDownloadIcon",
+    "codepoint": 57428
+  },
+  "cloud-upload": {
+    "icon": "CloudUploadIcon",
+    "codepoint": 57429
+  },
+  "book": {
+    "icon": "Book02Icon",
+    "codepoint": 57430
+  },
+  "folder": {
+    "icon": "Folder01Icon",
+    "codepoint": 57431
+  },
+  "folder-opened": {
+    "icon": "FolderOpenIcon",
+    "codepoint": 57432
+  },
+  "file": {
+    "icon": "File02Icon",
+    "codepoint": 57433
+  },
+  "star": {
+    "icon": "StarIcon",
+    "codepoint": 57434
+  },
+  "star-empty": {
+    "icon": "StarIcon",
+    "codepoint": 57434
+  },
+  "tag": {
+    "icon": "Tag01Icon",
+    "codepoint": 57435
+  },
+  "key": {
+    "icon": "Key01Icon",
+    "codepoint": 57436
+  },
+  "person": {
+    "icon": "UserIcon",
+    "codepoint": 57437
+  },
+  "beaker": {
+    "icon": "TestTube01Icon",
+    "codepoint": 57438
+  },
+  "rocket": {
+    "icon": "Rocket01Icon",
+    "codepoint": 57439
+  },
+  "database": {
+    "icon": "Database01Icon",
+    "codepoint": 57440
+  },
+  "package": {
+    "icon": "Package01Icon",
+    "codepoint": 57441
+  },
+  "tools": {
+    "icon": "Wrench01Icon",
+    "codepoint": 57442
+  },
+  "zap": {
+    "icon": "ZapIcon",
+    "codepoint": 57443
+  },
+  "wand": {
+    "icon": "MagicWand01Icon",
+    "codepoint": 57444
+  },
+  "sync": {
+    "icon": "Refresh01Icon",
+    "codepoint": 57363
+  },
+  "word-wrap": {
+    "icon": "TextWrapIcon",
+    "codepoint": 57445
+  },
+  "output": {
+    "icon": "TaskDone01Icon",
+    "codepoint": 57446
+  },
+  "debug-console": {
+    "icon": "ComputerTerminal02Icon",
+    "codepoint": 57447
+  },
+  "list-tree": {
+    "icon": "FlowConnectionIcon",
+    "codepoint": 57448
+  },
+  "list-flat": {
+    "icon": "ListViewIcon",
+    "codepoint": 57449
+  },
+  "preview": {
+    "icon": "ViewIcon",
+    "codepoint": 57450
+  },
+  "open-preview": {
+    "icon": "ViewIcon",
+    "codepoint": 57450
+  },
+  "clear-all": {
+    "icon": "Delete02Icon",
+    "codepoint": 57362
+  },
+  "feedback": {
+    "icon": "Comment01Icon",
+    "codepoint": 57406
+  },
+  "issues": {
+    "icon": "AlertCircleIcon",
+    "codepoint": 57451
+  }
+}

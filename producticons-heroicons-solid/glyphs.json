@@ -1,0 +1,370 @@
+{
+  "mic": {
+    "icon": "microphone",
+    "codepoint": 57344
+  },
+  "files": {
+    "icon": "document-duplicate",
+    "codepoint": 57345
+  },
+  "search": {
+    "icon": "magnifying-glass",
+    "codepoint": 57346
+  },
+  "extensions": {
+    "icon": "puzzle-piece",
+    "codepoint": 57347
+  },
+  "remote-explorer": {
+    "icon": "computer-desktop",
+    "codepoint": 57348
+  },
+  "account": {
+    "icon": "user-circle",
+    "codepoint": 57349
+  },
+  "settings-gear": {
+    "icon": "cog",
+    "codepoint": 57350
+  },
+  "gear": {
+    "icon": "cog",
+    "codepoint": 57350
+  },
+  "settings": {
+    "icon": "adjustments-horizontal",
+    "codepoint": 57351
+  },
+  "close": {
+    "icon": "x-mark",
+    "codepoint": 57352
+  },
+  "add": {
+    "icon": "plus",
+    "codepoint": 57353
+  },
+  "plus": {
+    "icon": "plus",
+    "codepoint": 57353
+  },
+  "remove": {
+    "icon": "minus",
+    "codepoint": 57354
+  },
+  "trash": {
+    "icon": "trash",
+    "codepoint": 57355
+  },
+  "refresh": {
+    "icon": "arrow-path",
+    "codepoint": 57356
+  },
+  "copy": {
+    "icon": "clipboard",
+    "codepoint": 57357
+  },
+  "filter": {
+    "icon": "funnel",
+    "codepoint": 57358
+  },
+  "filter-filled": {
+    "icon": "funnel",
+    "codepoint": 57358
+  },
+  "ellipsis": {
+    "icon": "ellipsis-horizontal",
+    "codepoint": 57359
+  },
+  "kebab-vertical": {
+    "icon": "ellipsis-vertical",
+    "codepoint": 57360
+  },
+  "new-file": {
+    "icon": "document-plus",
+    "codepoint": 57361
+  },
+  "new-folder": {
+    "icon": "folder-plus",
+    "codepoint": 57362
+  },
+  "chevron-right": {
+    "icon": "chevron-right",
+    "codepoint": 57363
+  },
+  "chevron-down": {
+    "icon": "chevron-down",
+    "codepoint": 57364
+  },
+  "chevron-left": {
+    "icon": "chevron-left",
+    "codepoint": 57365
+  },
+  "chevron-up": {
+    "icon": "chevron-up",
+    "codepoint": 57366
+  },
+  "arrow-right": {
+    "icon": "arrow-right",
+    "codepoint": 57367
+  },
+  "arrow-left": {
+    "icon": "arrow-left",
+    "codepoint": 57368
+  },
+  "arrow-up": {
+    "icon": "arrow-up",
+    "codepoint": 57369
+  },
+  "arrow-down": {
+    "icon": "arrow-down",
+    "codepoint": 57370
+  },
+  "terminal": {
+    "icon": "command-line",
+    "codepoint": 57371
+  },
+  "terminal-bash": {
+    "icon": "command-line",
+    "codepoint": 57371
+  },
+  "layout": {
+    "icon": "squares-2x2",
+    "codepoint": 57372
+  },
+  "screen-full": {
+    "icon": "arrows-pointing-out",
+    "codepoint": 57373
+  },
+  "screen-normal": {
+    "icon": "arrows-pointing-in",
+    "codepoint": 57374
+  },
+  "check": {
+    "icon": "check",
+    "codepoint": 57375
+  },
+  "error": {
+    "icon": "x-circle",
+    "codepoint": 57376
+  },
+  "warning": {
+    "icon": "exclamation-triangle",
+    "codepoint": 57377
+  },
+  "info": {
+    "icon": "information-circle",
+    "codepoint": 57378
+  },
+  "pass": {
+    "icon": "check-circle",
+    "codepoint": 57379
+  },
+  "pass-filled": {
+    "icon": "check-circle",
+    "codepoint": 57379
+  },
+  "bell": {
+    "icon": "bell",
+    "codepoint": 57380
+  },
+  "bell-dot": {
+    "icon": "bell",
+    "codepoint": 57380
+  },
+  "play": {
+    "icon": "play",
+    "codepoint": 57381
+  },
+  "debug-start": {
+    "icon": "play",
+    "codepoint": 57381
+  },
+  "run-all": {
+    "icon": "play",
+    "codepoint": 57381
+  },
+  "debug-pause": {
+    "icon": "pause",
+    "codepoint": 57382
+  },
+  "debug-stop": {
+    "icon": "stop",
+    "codepoint": 57383
+  },
+  "debug-continue": {
+    "icon": "forward",
+    "codepoint": 57384
+  },
+  "comment": {
+    "icon": "chat-bubble-left",
+    "codepoint": 57385
+  },
+  "comment-discussion": {
+    "icon": "chat-bubble-left-right",
+    "codepoint": 57386
+  },
+  "history": {
+    "icon": "clock",
+    "codepoint": 57387
+  },
+  "eye": {
+    "icon": "eye",
+    "codepoint": 57388
+  },
+  "eye-closed": {
+    "icon": "eye-slash",
+    "codepoint": 57389
+  },
+  "edit": {
+    "icon": "pencil",
+    "codepoint": 57390
+  },
+  "home": {
+    "icon": "home",
+    "codepoint": 57391
+  },
+  "globe": {
+    "icon": "language",
+    "codepoint": 57392
+  },
+  "link": {
+    "icon": "link",
+    "codepoint": 57393
+  },
+  "link-external": {
+    "icon": "arrow-top-right-on-square",
+    "codepoint": 57394
+  },
+  "lock": {
+    "icon": "lock-closed",
+    "codepoint": 57395
+  },
+  "unlock": {
+    "icon": "lock-open",
+    "codepoint": 57396
+  },
+  "menu": {
+    "icon": "bars-3",
+    "codepoint": 57397
+  },
+  "replace": {
+    "icon": "arrows-right-left",
+    "codepoint": 57398
+  },
+  "replace-all": {
+    "icon": "arrows-right-left",
+    "codepoint": 57398
+  },
+  "sparkle": {
+    "icon": "sparkles",
+    "codepoint": 57399
+  },
+  "chat-sparkle": {
+    "icon": "sparkles",
+    "codepoint": 57399
+  },
+  "go-to-file": {
+    "icon": "magnifying-glass",
+    "codepoint": 57346
+  },
+  "cloud": {
+    "icon": "cloud",
+    "codepoint": 57400
+  },
+  "cloud-download": {
+    "icon": "cloud-arrow-down",
+    "codepoint": 57401
+  },
+  "cloud-upload": {
+    "icon": "cloud-arrow-up",
+    "codepoint": 57402
+  },
+  "book": {
+    "icon": "book-open",
+    "codepoint": 57403
+  },
+  "folder": {
+    "icon": "folder",
+    "codepoint": 57404
+  },
+  "folder-opened": {
+    "icon": "folder-open",
+    "codepoint": 57405
+  },
+  "file": {
+    "icon": "document",
+    "codepoint": 57406
+  },
+  "star": {
+    "icon": "star",
+    "codepoint": 57407
+  },
+  "star-empty": {
+    "icon": "star",
+    "codepoint": 57407
+  },
+  "tag": {
+    "icon": "tag",
+    "codepoint": 57408
+  },
+  "key": {
+    "icon": "key",
+    "codepoint": 57409
+  },
+  "person": {
+    "icon": "user",
+    "codepoint": 57410
+  },
+  "beaker": {
+    "icon": "beaker",
+    "codepoint": 57411
+  },
+  "rocket": {
+    "icon": "rocket-launch",
+    "codepoint": 57412
+  },
+  "package": {
+    "icon": "archive-box",
+    "codepoint": 57413
+  },
+  "tools": {
+    "icon": "wrench",
+    "codepoint": 57414
+  },
+  "zap": {
+    "icon": "bolt",
+    "codepoint": 57415
+  },
+  "wand": {
+    "icon": "sparkles",
+    "codepoint": 57399
+  },
+  "output": {
+    "icon": "document-text",
+    "codepoint": 57416
+  },
+  "debug-console": {
+    "icon": "command-line",
+    "codepoint": 57371
+  },
+  "list-flat": {
+    "icon": "list-bullet",
+    "codepoint": 57417
+  },
+  "preview": {
+    "icon": "eye",
+    "codepoint": 57388
+  },
+  "open-preview": {
+    "icon": "eye",
+    "codepoint": 57388
+  },
+  "clear-all": {
+    "icon": "trash",
+    "codepoint": 57355
+  },
+  "issues": {
+    "icon": "exclamation-circle",
+    "codepoint": 57418
+  }
+}
