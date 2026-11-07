@@ -6,3 +6,4 @@ producticons*/glyphs.json
 *.vsix
 images/**
 .gitignore
+opencode/**

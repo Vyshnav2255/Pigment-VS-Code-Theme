@@ -4,7 +4,7 @@
 
 Each Pigment theme takes its name and mood from a real paint pigment. The first is **Lampblack**, the deepest
 black pigment: a true-black theme with vibrant syntax colours and twelve icon libraries for your files and the whole
-interface. More pigments are on the way.
+interface, plus a matching OpenCode theme. More pigments are on the way.
 
 ![Pigment Lampblack Borderless with Lucide icons](images/preview-lucide-borderless.png)
 
@@ -128,6 +128,26 @@ The themes are designed around [Paper Mono](https://github.com/paper-design/pape
 
 Paper Mono has no italic, so comments and keywords that the theme sets in italic are rendered slanted.
 
+## OpenCode
+
+Pigment Lampblack is also available for the [OpenCode](https://opencode.ai) terminal UI, generated from the same
+palette (true-black background, the same syntax, diff and Markdown colours). It uses OpenCode's V2 theme format.
+
+```bash
+mkdir -p ~/.config/opencode/themes
+curl -fsSL https://raw.githubusercontent.com/Vyshnav2255/Pigment-VS-Code-Theme/main/opencode/pigment-lampblack.json \
+  -o ~/.config/opencode/themes/pigment-lampblack.json
+```
+
+Then pick **pigment-lampblack** in OpenCode (`Ctrl+P` → *Open settings* → *Theme*), or set it in
+`~/.config/opencode/cli.json`:
+
+```json
+{ "theme": { "name": "pigment-lampblack", "mode": "dark" } }
+```
+
+Custom themes apply to OpenCode's terminal UI. The OpenCode desktop app currently only offers its built-in themes.
+
 ## Project structure
 
 ```
@@ -140,10 +160,12 @@ src/
   packs.mjs        Tabler, Iconoir, Fluent, Heroicons
   font.py          SVG icons → product-icon .woff fonts (picosvg + fontTools)
   aliases.mjs      maps newer / variant VS Code icon IDs onto each library
+  opencode.mjs     OpenCode terminal theme → opencode/
 out/extension.js   keeps product icons in sync with the file icon theme
 themes/            generated colour themes
 fileicons*/        generated file icon themes (coloured SVGs)
 producticons*/     generated product icon themes (fonts + definitions)
+opencode/          generated OpenCode theme
 ```
 
 The Lampblack palette lives at the top of [`src/build.mjs`](src/build.mjs). Change it and run `npm run build`.
