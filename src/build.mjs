@@ -1,4 +1,4 @@
-// Pitch Black: a true-black (#000000) VS Code theme. Run: node src/build.mjs
+// Pigment Lampblack: a true-black (#000000) VS Code theme (first theme of the Pigment collection). Run: node src/build.mjs
 import { writeFileSync, mkdirSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -266,7 +266,7 @@ for (const key of ['editorWidget.background', 'editorSuggestWidget.background', 
   'quickInputTitle.background', 'menu.background', 'notifications.background', 'notificationCenterHeader.background', 'debugToolBar.background'])
   borderless[key] = '#141414';
 
-const variants = [['pitch-black.json', 'Pitch Black', colors], ['pitch-black-borderless.json', 'Pitch Black Borderless', borderless]];
+const variants = [['lampblack.json', 'Pigment Lampblack', colors], ['lampblack-borderless.json', 'Pigment Lampblack Borderless', borderless]];
 mkdirSync(join(root, 'themes'), { recursive: true });
 for (const [file, name, c] of variants) {
   writeFileSync(join(root, 'themes', file), JSON.stringify({

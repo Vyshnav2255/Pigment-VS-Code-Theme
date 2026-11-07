@@ -232,7 +232,7 @@ for (const pack of PACKS) {
     }
   });
   writeFileSync(join(fiDir, 'icons.json'), JSON.stringify(fileThemeJson(defs), null, 2) + '\n');
-  contributes.iconThemes.push({ id: `pitch-black-${pack.id}`, label: `Pitch Black ${pack.label}`, path: `./fileicons-${pack.id}/icons.json` });
+  contributes.iconThemes.push({ id: `pigment-${pack.id}`, label: `Pigment ${pack.label}`, path: `./fileicons-${pack.id}/icons.json` });
 
   // ---- product icons ----
   const piDir = join(root, `producticons-${pack.id}`);
@@ -252,7 +252,7 @@ for (const pack of PACKS) {
     fonts: [{ id: pack.id, src: [{ path: './icons.woff', format: 'woff' }], weight: 'normal', style: 'normal' }],
     iconDefinitions: Object.fromEntries(Object.entries(glyphs).map(([id, g]) => [id, { fontCharacter: '\\' + g.codepoint.toString(16) }])),
   }, null, 2) + '\n');
-  contributes.productIconThemes.push({ id: `pitch-black-${pack.id}-ui`, label: `Pitch Black ${pack.label} UI`, path: `./producticons-${pack.id}/icons.json` });
+  contributes.productIconThemes.push({ id: `pigment-${pack.id}-ui`, label: `Pigment ${pack.label} UI`, path: `./producticons-${pack.id}/icons.json` });
   report.push(`${pack.id}: file ${Object.keys(FILE).length - missingFile.length}/${Object.keys(FILE).length}` +
     (missingFile.length ? ` (generic: ${missingFile.join(',')})` : '') +
     ` | UI ${Object.keys(glyphs).length}/${Object.keys(UI).length}` + (missingUi.length ? ` (default: ${missingUi.join(',')})` : ''));

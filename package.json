@@ -1,17 +1,17 @@
 {
-  "name": "pitch-black-theme",
-  "displayName": "Pitch Black",
-  "description": "A true-black dark theme for VS Code with file and UI icon themes from Hugeicons, Phosphor, Lucide, Tabler, Iconoir, Fluent and Heroicons.",
-  "version": "1.8.0",
+  "name": "pigment-theme",
+  "displayName": "Pigment",
+  "description": "A collection of VS Code themes named after artist pigments. Starts with Lampblack: true black, vibrant syntax, and 12 icon libraries for files and the interface.",
+  "version": "2.0.0",
   "publisher": "vyshnav",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Vyshnav2255/vs-code-themes.git"
+    "url": "https://github.com/Vyshnav2255/Pigment-VS-Code-Theme.git"
   },
-  "homepage": "https://github.com/Vyshnav2255/vs-code-themes#readme",
+  "homepage": "https://github.com/Vyshnav2255/Pigment-VS-Code-Theme#readme",
   "bugs": {
-    "url": "https://github.com/Vyshnav2255/vs-code-themes/issues"
+    "url": "https://github.com/Vyshnav2255/Pigment-VS-Code-Theme/issues"
   },
   "engines": {
     "vscode": "^1.80.0"
@@ -25,9 +25,11 @@
     "black",
     "amoled",
     "oled",
+    "pigment",
+    "lampblack",
     "icons",
-    "hugeicons",
     "product icons",
+    "hugeicons",
     "phosphor",
     "lucide",
     "tabler",
@@ -41,147 +43,153 @@
   "contributes": {
     "themes": [
       {
-        "label": "Pitch Black",
+        "label": "Pigment Lampblack",
         "uiTheme": "vs-dark",
-        "path": "./themes/pitch-black.json"
+        "path": "./themes/lampblack.json"
       },
       {
-        "label": "Pitch Black Borderless",
+        "label": "Pigment Lampblack Borderless",
         "uiTheme": "vs-dark",
-        "path": "./themes/pitch-black-borderless.json"
+        "path": "./themes/lampblack-borderless.json"
       }
     ],
     "iconThemes": [
       {
-        "id": "pitch-black-hugeicons",
-        "label": "Pitch Black Hugeicons",
-        "path": "./fileicons/pitch-black-icons.json"
+        "id": "pigment-hugeicons",
+        "label": "Pigment Hugeicons",
+        "path": "./fileicons/icons.json"
       },
       {
-        "id": "pitch-black-phosphor-outline",
-        "label": "Pitch Black Phosphor Outline",
+        "id": "pigment-phosphor-outline",
+        "label": "Pigment Phosphor Outline",
         "path": "./fileicons-phosphor-outline/icons.json"
       },
       {
-        "id": "pitch-black-phosphor-filled",
-        "label": "Pitch Black Phosphor Filled",
+        "id": "pigment-phosphor-filled",
+        "label": "Pigment Phosphor Filled",
         "path": "./fileicons-phosphor-filled/icons.json"
       },
       {
-        "id": "pitch-black-lucide",
-        "label": "Pitch Black Lucide",
+        "id": "pigment-lucide",
+        "label": "Pigment Lucide",
         "path": "./fileicons-lucide/icons.json"
       },
       {
-        "id": "pitch-black-tabler-outline",
-        "label": "Pitch Black Tabler Outline",
+        "id": "pigment-tabler-outline",
+        "label": "Pigment Tabler Outline",
         "path": "./fileicons-tabler-outline/icons.json"
       },
       {
-        "id": "pitch-black-tabler-filled",
-        "label": "Pitch Black Tabler Filled",
+        "id": "pigment-tabler-filled",
+        "label": "Pigment Tabler Filled",
         "path": "./fileicons-tabler-filled/icons.json"
       },
       {
-        "id": "pitch-black-iconoir-regular",
-        "label": "Pitch Black Iconoir Regular",
+        "id": "pigment-iconoir-regular",
+        "label": "Pigment Iconoir Regular",
         "path": "./fileicons-iconoir-regular/icons.json"
       },
       {
-        "id": "pitch-black-iconoir-solid",
-        "label": "Pitch Black Iconoir Solid",
+        "id": "pigment-iconoir-solid",
+        "label": "Pigment Iconoir Solid",
         "path": "./fileicons-iconoir-solid/icons.json"
       },
       {
-        "id": "pitch-black-fluent-regular",
-        "label": "Pitch Black Fluent Regular",
+        "id": "pigment-fluent-regular",
+        "label": "Pigment Fluent Regular",
         "path": "./fileicons-fluent-regular/icons.json"
       },
       {
-        "id": "pitch-black-fluent-filled",
-        "label": "Pitch Black Fluent Filled",
+        "id": "pigment-fluent-filled",
+        "label": "Pigment Fluent Filled",
         "path": "./fileicons-fluent-filled/icons.json"
       },
       {
-        "id": "pitch-black-heroicons-outline",
-        "label": "Pitch Black Heroicons Outline",
+        "id": "pigment-heroicons-outline",
+        "label": "Pigment Heroicons Outline",
         "path": "./fileicons-heroicons-outline/icons.json"
       },
       {
-        "id": "pitch-black-heroicons-solid",
-        "label": "Pitch Black Heroicons Solid",
+        "id": "pigment-heroicons-solid",
+        "label": "Pigment Heroicons Solid",
         "path": "./fileicons-heroicons-solid/icons.json"
       }
     ],
     "productIconThemes": [
       {
-        "id": "pitch-black-hugeicons-ui",
-        "label": "Pitch Black Hugeicons UI",
+        "id": "pigment-hugeicons-ui",
+        "label": "Pigment Hugeicons UI",
         "path": "./producticons/hugeicons-ui.json"
       },
       {
-        "id": "pitch-black-phosphor-outline-ui",
-        "label": "Pitch Black Phosphor Outline UI",
+        "id": "pigment-phosphor-outline-ui",
+        "label": "Pigment Phosphor Outline UI",
         "path": "./producticons-phosphor-outline/icons.json"
       },
       {
-        "id": "pitch-black-phosphor-filled-ui",
-        "label": "Pitch Black Phosphor Filled UI",
+        "id": "pigment-phosphor-filled-ui",
+        "label": "Pigment Phosphor Filled UI",
         "path": "./producticons-phosphor-filled/icons.json"
       },
       {
-        "id": "pitch-black-lucide-ui",
-        "label": "Pitch Black Lucide UI",
+        "id": "pigment-lucide-ui",
+        "label": "Pigment Lucide UI",
         "path": "./producticons-lucide/icons.json"
       },
       {
-        "id": "pitch-black-tabler-outline-ui",
-        "label": "Pitch Black Tabler Outline UI",
+        "id": "pigment-tabler-outline-ui",
+        "label": "Pigment Tabler Outline UI",
         "path": "./producticons-tabler-outline/icons.json"
       },
       {
-        "id": "pitch-black-tabler-filled-ui",
-        "label": "Pitch Black Tabler Filled UI",
+        "id": "pigment-tabler-filled-ui",
+        "label": "Pigment Tabler Filled UI",
         "path": "./producticons-tabler-filled/icons.json"
       },
       {
-        "id": "pitch-black-iconoir-regular-ui",
-        "label": "Pitch Black Iconoir Regular UI",
+        "id": "pigment-iconoir-regular-ui",
+        "label": "Pigment Iconoir Regular UI",
         "path": "./producticons-iconoir-regular/icons.json"
       },
       {
-        "id": "pitch-black-iconoir-solid-ui",
-        "label": "Pitch Black Iconoir Solid UI",
+        "id": "pigment-iconoir-solid-ui",
+        "label": "Pigment Iconoir Solid UI",
         "path": "./producticons-iconoir-solid/icons.json"
       },
       {
-        "id": "pitch-black-fluent-regular-ui",
-        "label": "Pitch Black Fluent Regular UI",
+        "id": "pigment-fluent-regular-ui",
+        "label": "Pigment Fluent Regular UI",
         "path": "./producticons-fluent-regular/icons.json"
       },
       {
-        "id": "pitch-black-fluent-filled-ui",
-        "label": "Pitch Black Fluent Filled UI",
+        "id": "pigment-fluent-filled-ui",
+        "label": "Pigment Fluent Filled UI",
         "path": "./producticons-fluent-filled/icons.json"
       },
       {
-        "id": "pitch-black-heroicons-outline-ui",
-        "label": "Pitch Black Heroicons Outline UI",
+        "id": "pigment-heroicons-outline-ui",
+        "label": "Pigment Heroicons Outline UI",
         "path": "./producticons-heroicons-outline/icons.json"
       },
       {
-        "id": "pitch-black-heroicons-solid-ui",
-        "label": "Pitch Black Heroicons Solid UI",
+        "id": "pigment-heroicons-solid-ui",
+        "label": "Pigment Heroicons Solid UI",
         "path": "./producticons-heroicons-solid/icons.json"
       }
     ],
     "configuration": {
-      "title": "Pitch Black",
+      "title": "Pigment",
       "properties": {
+        "pigment.syncInterfaceIcons": {
+          "type": "boolean",
+          "default": true,
+          "description": "When you pick a Pigment file icon theme, also switch the interface (product) icons to the matching Pigment UI theme."
+        },
         "pitchBlack.syncInterfaceIcons": {
           "type": "boolean",
           "default": true,
-          "description": "When you pick a Pitch Black file icon theme, also switch the interface (product) icons to the matching Pitch Black UI theme."
+          "deprecationMessage": "Renamed to pigment.syncInterfaceIcons.",
+          "markdownDeprecationMessage": "Renamed to `#pigment.syncInterfaceIcons#`."
         }
       }
     }

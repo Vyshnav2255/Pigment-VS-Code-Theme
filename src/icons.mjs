@@ -49,7 +49,7 @@ const iconTheme = {
   file: '_file', folder: '_folder', folderExpanded: '_folder_open', rootFolder: '_folder', rootFolderExpanded: '_folder_open',
   fileExtensions: ext, fileNames: names, languageIds: langs, folderNames, folderNamesExpanded,
 };
-writeFileSync(join(fiDir, 'pitch-black-icons.json'), JSON.stringify(iconTheme, null, 2) + '\n');
+writeFileSync(join(fiDir, 'icons.json'), JSON.stringify(iconTheme, null, 2) + '\n');
 
 // ---------- Product (UI) icons: codicon id -> Hugeicon ----------
 const ui = {

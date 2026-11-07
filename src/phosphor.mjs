@@ -86,7 +86,7 @@ for (const style of STYLES) {
     file: '_file', folder: '_folder', folderExpanded: '_folder_open', rootFolder: '_folder', rootFolderExpanded: '_folder_open',
     fileExtensions: ext, fileNames: names, languageIds: langs, folderNames, folderNamesExpanded,
   }, null, 2) + '\n');
-  pkgThemes.iconThemes.push({ id: `pitch-black-phosphor-${style.id}`, label: `Pitch Black Phosphor ${style.label}`,
+  pkgThemes.iconThemes.push({ id: `pigment-phosphor-${style.id}`, label: `Pigment Phosphor ${style.label}`,
     path: `./fileicons-phosphor-${style.id}/icons.json` });
 
   // ---- product icons ----
@@ -106,7 +106,7 @@ for (const style of STYLES) {
     fonts: [{ id: `phosphor-${style.id}`, src: [{ path: './icons.woff', format: 'woff' }], weight: 'normal', style: 'normal' }],
     iconDefinitions: Object.fromEntries(Object.entries(glyphs).map(([id, g]) => [id, { fontCharacter: '\\' + g.codepoint.toString(16) }])),
   }, null, 2) + '\n');
-  pkgThemes.productIconThemes.push({ id: `pitch-black-phosphor-${style.id}-ui`, label: `Pitch Black Phosphor ${style.label} UI`,
+  pkgThemes.productIconThemes.push({ id: `pigment-phosphor-${style.id}-ui`, label: `Pigment Phosphor ${style.label} UI`,
     path: `./producticons-phosphor-${style.id}/icons.json` });
   console.log(`phosphor ${style.id}: ${Object.keys(defs).length} file icons, ${Object.keys(glyphs).length} UI ids / ${used.size} glyphs`);
 }
